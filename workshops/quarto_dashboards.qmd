@@ -1,0 +1,33 @@
+---
+title: Dashboards with Quarto (R + Python)
+author:
+  - name: Mine Çetinkaya-Rundel
+    affiliations:
+      - name: Posit, PBC
+      - name: Duke University
+description: |
+  Create sleek, elegant, and eye-catching dashboards with static and/or interactive elements with Quarto. For R and Python users.
+categories: [Quarto, R, Python]
+---
+
+# Description
+
+You already analyze and summarize your data in computational notebooks with R and/or Python. What's next? You can share your insights or allow others to make their own conclusions in eye-catching dasboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including Plotly, Leaflet, Jupyter Widgets, htmlwidgets; static graphics (Matplotlib, Seaborn, ggplot2, etc.); tabular data; value boxes; and text annotations. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes. And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – using any notebook editor (JupyterLab, etc.) or in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.). This workshop will walk you through building an increasingly complex dashboard using various layout options and and deploy them as static web pages (with no special server required) as well as with a Shiny Server on the backend for enhanced interactivity.
+
+# Audience
+
+This course is for you if you:
+
+-   list at least
+
+-   three attributes
+
+-   for your target audience
+
+# Instructor(s)
+
+|                                       |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-----------------|-----------------|--------------------------------------|
+| ![](images/mine-cetinkaya-rundel.jpg) |     | [**Dr. Mine Çetinkaya-Rundel**](http://mine-cr.com/) (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit. Mine's work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics. |
+
+: {tbl-colwidths="\[25,5,70\]"}

@@ -1,0 +1,9 @@
+---
+title: "Workshops"
+listing:
+  contents: workshops
+  type: table
+  fields: [title, author, description]
+  field-display-names:
+    author: "Instructor(s)"
+---

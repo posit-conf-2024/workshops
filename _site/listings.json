@@ -1,0 +1,31 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/workshops/shiny_python_adv.html",
+      "/workshops/tidymodels_advanced.html",
+      "/workshops/ml_dl_python.html",
+      "/workshops/posit_tools_python.html",
+      "/workshops/r_pharma.html",
+      "/workshops/arrow.html",
+      "/workshops/wtf.html",
+      "/workshops/shiny_r_intro.html",
+      "/workshops/tidymodels_intro.html",
+      "/workshops/pkg_dev.html",
+      "/workshops/programming_r.html",
+      "/workshops/databricks.html",
+      "/workshops/quarto_websites.html",
+      "/workshops/quarto_intro.html",
+      "/workshops/intro_ds_python.html",
+      "/workshops/posit_tools_r.html",
+      "/workshops/shiny_python_intro.html",
+      "/workshops/r_in_production.html",
+      "/workshops/dev_ops.html",
+      "/workshops/intro_ds_r.html",
+      "/workshops/tables.html",
+      "/workshops/dataviz.html",
+      "/workshops/vetiver.html",
+      "/workshops/quarto_dashboards.html"
+    ]
+  }
+]

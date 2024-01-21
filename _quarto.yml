@@ -1,0 +1,9 @@
+project:
+  type: website
+
+website:
+  navbar: 
+    left: 
+      - index.qmd
+
+editor: visual

@@ -17,7 +17,6 @@
       "/workshops/arrow.html",
       "/workshops/programming_r.html",
       "/workshops/dev_ops.html",
-      "/workshops/posit_tools_r.html",
       "/workshops/posit_tools_python.html",
       "/workshops/vetiver.html",
       "/workshops/ml_dl_python.html",
@@ -25,7 +24,8 @@
       "/workshops/tidymodels_advanced.html",
       "/workshops/intro_ds_python.html",
       "/workshops/r_in_production.html",
-      "/workshops/quarto_dashboards.html"
+      "/workshops/quarto_dashboards.html",
+      "/workshops/posit_tools_r.html"
     ]
   }
 ]

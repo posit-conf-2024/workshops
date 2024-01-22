@@ -29,7 +29,6 @@ By the end of the workshop you'll have built and published (if you want) a perso
 We'll assume you've used Quarto to produce documents, but we won't assume you have any HTML, CSS/SCSS or Git/GitHub experience, nor will we assume any particular programming language (R, Python etc.) or level of programming experience. 
 
 # Audience
-
 This course is for you if you:
 
 -   Have used Quarto to generate documents (e.g. HTML, PDF, MS Word etc.)
@@ -44,5 +43,6 @@ This course is for you if you:
 |                               |     |                                             |
 |------------------|------------------|-------------------------------------|
 | ![](images/charlotte-wickham.jpg) |     | [**Dr. Charlotte Wickham**](http://cwick.co.nz) (she/her) is a Developer Educator on the Quarto team at Posit. As part of her job at Posit, Charlotte helps to keep [quarto.org](https://quarto.org)---a website about, and also built with, Quarto---up to date. Prior to Posit, she taught Statistics and Data Science at Oregon State University where she received awards for her in-person and online teaching. |
+| ![](images/emil-hvitfeldt.png) |     | [**Emil Hvitfeldt**](https://emilhvitfeldt.com/) (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb. |
 
 : {tbl-colwidths="\[25,5,70\]"}

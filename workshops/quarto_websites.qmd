@@ -43,6 +43,6 @@ This course is for you if you:
 |                               |     |                                             |
 |------------------|------------------|-------------------------------------|
 | ![](images/charlotte-wickham.jpg) |     | [**Dr. Charlotte Wickham**](http://cwick.co.nz) (she/her) is a Developer Educator on the Quarto team at Posit. As part of her job at Posit, Charlotte helps to keep [quarto.org](https://quarto.org)---a website about, and also built with, Quarto---up to date. Prior to Posit, she taught Statistics and Data Science at Oregon State University where she received awards for her in-person and online teaching. |
-| ![](images/charlotte-wickham.jpg) |     | [**Emil Hvitfeldt**](https://emilhvitfeldt.com/) (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb. |
+| ![](images/emil-hvitfeldt.png) |     | [**Emil Hvitfeldt**](https://emilhvitfeldt.com/) (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb. |
 
 : {tbl-colwidths="\[25,5,70\]"}

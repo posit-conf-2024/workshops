@@ -1,35 +1,39 @@
 ---
-title: Add workshop title here
+title: Using Databricks with R
 author:
-  - name: Instructor 1 name
+  - name: Edgar Ruiz
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
-    affiliations:
-      - name: Instructor 2 affiliation      
+      - name: Posit PBC
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  Overview of the latests methods to connect, and interact with
+  Databricks services. 
+categories: [databricks, databases, Spark, dplyr]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+As most organization's data migrate to the cloud, the ability to analyze data in-place becomes more important. This workshop will walk you through how to think about remote data, how to access it, and how to analyze it efficiently. We will review the latest in integrations between R and Databricks. The two integration that we will review are:
+
+-   [Spark via Databricks Connect](https://spark.rstudio.com/deployment/databricks-connect.html)
+
+-   [ODBC connection](https://solutions.posit.co/connections/db/databases/databricks/)
+
+During the workshop, we will discuss best practices for when to use which integration, as well as techniques to take your analysis into production.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+-   Are an R user
 
--   three attributes
+-   Plan, or are currently, using Databricks services
 
--   for your target audience
+-   Need to learn how to access and analyze data in Databricks
 
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+|                            |     |                                             |
+|------------------|----------|------------------------------------|
+| ![](images/edgar-ruiz.jpg) |     | Instructor bio, including link to homepage. |
 
 : {tbl-colwidths="\[25,5,70\]"}

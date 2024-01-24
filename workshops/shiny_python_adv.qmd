@@ -1,30 +1,37 @@
 ---
-title: Add workshop title here
+title: Advanced Shiny for Python
 author:
-  - name: Instructor 1 name
+  - name: Gordon Shotwell
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
-    affiliations:
-      - name: Instructor 2 affiliation      
+      - name: Posit PBC   
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  Take your Shiny apps to the next level with modules
+categories: [python, shiny, production, advanced]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+Our Intro to Shiny for Python workshop takes you through the basics of building Shiny for Python applications with Shiny Express. 
+This course builds on those concepts and teaches you how to build and maintain large, mission-critical applications in Shiny. 
+After this one-day workshop you will understand how to identify problematic Shiny code, and how to build robust apps which are easy to maintain and extend. 
+
+The topics we will cover are:
+- What is Shiny Core and why do we use it?
+- Basics of Shiny modules
+- Communicating between modules
+- Testing Shiny applications with pytest and playwright 
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+-   Are comfortable working with Python
+-   Have built and maintained a few Shiny applications in either R or Python
+-   Are comfortable with Shiny concepts like reactive calcuations and effect
 
--   three attributes
-
--   for your target audience
+This course is probably not for you if:
+-  You aren't really comfortable with Python
+-  You are picking up Shiny for the first time
 
 # Instructor(s)
 

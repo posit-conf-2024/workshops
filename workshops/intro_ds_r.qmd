@@ -5,7 +5,7 @@ author:
     affiliations:
       - name: Posit, PBC
 description: |
-  Learn the foundations of R and the Tidyverse through a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals.
+  Learn the foundations of R for data science through a cohort-based, mentor-led, hands-on apprenticeship for working professionals.
 categories: [data science, tidyverse]
 ---
 
@@ -29,7 +29,7 @@ This course is for you if you:
 
 -   are a SAS or Excel user looking to switch your workflows to R.
 
-# Instructor(s)
+# Instructors
 
 |                         |     |                                                                                                                                                                                                                                                                                                   |
 |------------------|------------------|-------------------------------------|

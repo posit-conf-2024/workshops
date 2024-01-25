@@ -13,7 +13,7 @@ categories: [data science, python]
 
 This is not a standard workshop, but a six-week online apprenticeship that culminates in-person at posit::conf(2024).
 
-Here, you will learn the foundations of Python for data science under the guidance of a Posit Academy mentor and in the company of a close group of fellow learners. You will be expected to complete a weekly curriculum of interactive tutorials, and to attend a weekly presentation meeting with your mentor and fellow students. Topics will include importing packages and datasets, visualizing data with plotnint, wrangling data with pandas, and reporting reproducibly with Quarto.
+Here, you will learn the foundations of Python for data science under the guidance of a Posit Academy mentor and in the company of a close group of fellow learners. You will be expected to complete a weekly curriculum of interactive tutorials, and to attend a weekly presentation meeting with your mentor and fellow learners. Topics will include importing packages and datasets, visualizing data with plotnine, wrangling data with pandas, and reporting reproducibly with Quarto.
 
 **Begins the week of July 1st, 2024. No knowledge of Python required.** 
 
@@ -33,6 +33,6 @@ This course is for you if you:
 
 |                         |     |                                                                                                                                                                                                                                                                                                   |
 |------------------|------------------|-------------------------------------|
-| ![](images/academy.png) |     | Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-student collaboration. |
+| ![](images/academy.png) |     | Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-learner collaboration. |
 
 : {tbl-colwidths="\[25,5,70\]"}

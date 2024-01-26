@@ -11,8 +11,6 @@
       "/workshops/vetiver.html",
       "/workshops/shiny_r_intro.html",
       "/workshops/shiny_python_intro.html",
-      "/workshops/intro_ds_python.html",
-      "/workshops/intro_ds_r.html",
       "/workshops/quarto_intro.html",
       "/workshops/r_pharma.html",
       "/workshops/dev_ops.html",
@@ -23,6 +21,8 @@
       "/workshops/shiny_python_adv.html",
       "/workshops/quarto_dashboards.html",
       "/workshops/posit_tools_r.html",
+      "/workshops/intro_ds_python.html",
+      "/workshops/intro_ds_r.html",
       "/workshops/tidymodels_intro.html",
       "/workshops/quarto_websites.html",
       "/workshops/databricks.html"

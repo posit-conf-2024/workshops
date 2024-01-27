@@ -1,35 +1,35 @@
 ---
-title: Add workshop title here
+title: "Data Science Workflows with Posit Tools — Python Focus"
 author:
-  - name: Instructor 1 name
+  - name: Sam Edwardes
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
+      - name: Solutions Engineer at Posit
+  - name: Gagandeep Singh
     affiliations:
-      - name: Instructor 2 affiliation      
+      - name: Solutions Engineer at Posit
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  Build an opinionated and Pythonic data science workflow using Posit's professional products and open-source tools.
+categories: [data science, pro product, python, workbench, connect, package manager, vs code]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+This Python-focused workshop will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modelling, and more. We'll use Posit's open-source and professional tools to string all the pieces together for an efficient workflow. We'll discuss environments, managing deployed content, working with databases, and interoperability across data products.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
-
--   three attributes
-
--   for your target audience
+-   Build finished data products starting from raw data and are looking to improve your workflow
+-   Are looking to expand your knowledge of Posit open source and professional tools
+-   Want to improve interoperability between data products in your work or on your team
+-   Have experience developing in Python. An analogous course with an R focus is also offered
 
 # Instructor(s)
 
 |                               |     |                                             |
 |------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+| ![](images/sam-edwardes.jpg) |     | [**Sam Edwardes**](https://ca.linkedin.com/in/samedwardes) is obsessed with data science, R, Python, and all things open source. As a Solutions Engineer at Posit, he loves getting into the nitty gritty and optimizing everything. When he is not tinkering on his computer, you can find Sam and his dog Roo on adventures in beautiful British Columbia. |
+| ![](images/gagan-deep-singh.jpg) |     | [**Gagandeep Singh**](https://ca.linkedin.com/in/gagandeeepuw) is a former software engineer and data scientist who has worked in a variety of cross-technology teams. Before joining Posit as a Solutions Engineer, he consulted with Fortune 500 companies to build their analytical capacities. Outside of work, you can find him at a local bookstore. |
 
 : {tbl-colwidths="\[25,5,70\]"}

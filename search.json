@@ -1,28 +1,14 @@
 [
   {
-    "objectID": "workshops/pkg_dev.html",
-    "href": "workshops/pkg_dev.html",
+    "objectID": "workshops/tables.html",
+    "href": "workshops/tables.html",
     "title": "Add workshop title here",
     "section": "",
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
   },
   {
-    "objectID": "workshops/arrow.html",
-    "href": "workshops/arrow.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
-    "objectID": "workshops/ml_dl_python.html",
-    "href": "workshops/ml_dl_python.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
-    "objectID": "workshops/dev_ops.html",
-    "href": "workshops/dev_ops.html",
+    "objectID": "workshops/wtf.html",
+    "href": "workshops/wtf.html",
     "title": "Add workshop title here",
     "section": "",
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
@@ -35,48 +21,6 @@
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
   },
   {
-    "objectID": "workshops/intro_ds_python.html",
-    "href": "workshops/intro_ds_python.html",
-    "title": "Introduction to Data Science with Python",
-    "section": "",
-    "text": "Description\nThis is not a standard workshop, but a six-week online apprenticeship that culminates in-person at posit::conf(2024).\nHere, you will learn the foundations of Python for data science under the guidance of a Posit Academy mentor and in the company of a close group of fellow learners. You will be expected to complete a weekly curriculum of interactive tutorials, and to attend a weekly presentation meeting with your mentor and fellow learners. Topics will include importing packages and datasets, visualizing data with plotnine, wrangling data with pandas, and reporting reproducibly with Quarto.\nNo prior knowledge of Python required. Visit posit.co/academy to learn more about this uniquely effective learning format.\n\n\n\n\n\n\nImportant dates\n\n\n\n🗓️ Online sessions begin the week of July 1st, 2024.\n🚫 Registration for this workshop will close on June 24th, 2024.\n\n\n\n\nAudience\nThis course is for you if you:\n\nare new to Python,\nhave dabbled in Python, but are not sure how to use Python to do data science, or\nare an R user who wants to work more closely with Python users on your team.\n\n\n\nInstructors\n\n\n\n\n\n\n\n\n\n\nPosit Academy is Posit’s internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-learner collaboration."
-  },
-  {
-    "objectID": "workshops/shiny_r_intro.html",
-    "href": "workshops/shiny_r_intro.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
-    "objectID": "workshops/vetiver.html",
-    "href": "workshops/vetiver.html",
-    "title": "Intro to MLOps with vetiver",
-    "section": "",
-    "text": "Description\nData scientists understand what goes into training a machine learning or statistical model, but bringing that model into a production environment can be daunting.\nThis workshop will cover the fundamentals of MLOps (machine learning operations), the practices used to create a MLOps strategy, and what kinds of tasks and components are involved. We’ll use vetiver, a framework for MLOps tasks in Python and R, to version, deploy, and monitor the models you have trained and want to deploy and maintain in production reliably and efficiently.\n\n\nAudience\nWe expect participants to have exposure to basic modeling and machine learning practice, but NOT expert familiarity with advanced ML or MLOps topics.\nThis workshop is for you if you:\n\nhave intermediate R or Python knowledge (this will be a “choose your own adventure” workshop where you can work through the exercises in either R or Python),\ncan read data from CSV and other flat files, transform and reshape data, and make a wide variety of graphs, and\ncan fit a model to data with your modeling framework of choice.\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nIsabel Zimmerman(she/her) is a software engineer at Posit, PBC. As part of her job at Posit, she builds and maintains MLOps Python packages such as vetiver and pins. She has a background as a software engineer/data scientist working with data and models in cloud environments."
-  },
-  {
-    "objectID": "workshops/dataviz.html",
-    "href": "workshops/dataviz.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
-    "objectID": "workshops/tidymodels_advanced.html",
-    "href": "workshops/tidymodels_advanced.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
-    "objectID": "workshops/posit_tools_python.html",
-    "href": "workshops/posit_tools_python.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
     "objectID": "workshops/r_in_production.html",
     "href": "workshops/r_in_production.html",
     "title": "Add workshop title here",
@@ -84,11 +28,11 @@
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Workshops",
+    "objectID": "workshops/posit_tools_python.html",
+    "href": "workshops/posit_tools_python.html",
+    "title": "Data Science Workflows with Posit Tools — Python Focus",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Instructor(s)\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nInstructor(s)\n\n\nDescription\n\n\n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdvanced Shiny for Python\n\n\nGordon Shotwell\n\n\nTake your Shiny apps to the next level with modules \n\n\n\n\nDashboards with Quarto (R + Python)\n\n\nMine Çetinkaya-Rundel\n\n\nCreate sleek, elegant, and eye-catching dashboards with static and/or interactive elements with Quarto. For R and Python users. \n\n\n\n\nData Science Workflows with Posit Tools — R Focus\n\n\nRyan Johnson, Katie Masiello\n\n\nUse open source packages and Posit’s professional tools — Workbench, Connect, and Package Manager — to improve your end-to-end data science workflows. \n\n\n\n\nIntro to MLOps with vetiver\n\n\nIsabel Zimmerman\n\n\nUtilize the vetiver framework in Python and R for efficient versioning, deployment, and monitoring of machine learning models in production. \n\n\n\n\nIntroduction to Data Science with Python\n\n\nPosit Academy Team\n\n\nLearn the foundations of Python for data science through a cohort-based, mentor-led, hands-on apprenticeship for working professionals. \n\n\n\n\nIntroduction to Data Science with R and Tidyverse\n\n\nPosit Academy Team\n\n\nLearn the foundations of R for data science through a cohort-based, mentor-led, hands-on apprenticeship for working professionals. \n\n\n\n\nIntroduction to tidymodels\n\n\nHannah Frick, Simon Couch\n\n\nMachine learning with tabular data using the tidymodels framework. \n\n\n\n\nQuarto Websites\n\n\nCharlotte Wickham, Emil Hvitfeldt\n\n\nBuild a website from scratch with Quarto. \n\n\n\n\nUsing Databricks with R\n\n\nEdgar Ruiz\n\n\nOverview of the latests methods to connect, and interact with Databricks services. \n\n\n\n\n\nNo matching items"
+    "text": "Description\nThis Python-focused workshop will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modelling, and more. We’ll use Posit’s open-source and professional tools to string all the pieces together for an efficient workflow. We’ll discuss environments, managing deployed content, working with databases, and interoperability across data products.\n\n\nAudience\nThis course is for you if you:\n\nBuild finished data products starting from raw data and are looking to improve your workflow\nAre looking to expand your knowledge of Posit open source and professional tools\nWant to improve interoperability between data products in your work or on your team\nHave experience developing in Python. An analogous course with an R focus is also offered\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nSam Edwardes is obsessed with data science, R, Python, and all things open source. As a Solutions Engineer at Posit, he loves getting into the nitty gritty and optimizing everything. When he is not tinkering on his computer, you can find Sam and his dog Roo on adventures in beautiful British Columbia.\n\n\n\n\nGagandeep Singh is a former software engineer and data scientist who has worked in a variety of cross-technology teams. Before joining Posit as a Solutions Engineer, he consulted with Fortune 500 companies to build their analytical capacities. Outside of work, you can find him at a local bookstore."
   },
   {
     "objectID": "workshops/shiny_python_adv.html",
@@ -98,22 +42,8 @@
     "text": "Description\nOur Intro to Shiny for Python workshop takes you through the basics of building Shiny for Python applications with Shiny Express. This course builds on those concepts and teaches you how to build and maintain large, mission-critical applications in Shiny. After this one-day workshop you will understand how to identify problematic Shiny code, and how to build robust apps which are easy to maintain and extend.\nThe topics we will cover are: - What is Shiny Core and why do we use it? - Basics of Shiny modules - Communicating between modules - Testing Shiny applications with pytest and playwright\n\n\nAudience\nThis course is for you if you:\n\nAre comfortable working with Python\nHave built and maintained a few Shiny applications in either R or Python\nAre comfortable with Shiny concepts like reactive calcuations and effect\n\nThis course is probably not for you if: - You aren’t really comfortable with Python - You are picking up Shiny for the first time\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
   },
   {
-    "objectID": "workshops/tidymodels_intro.html",
-    "href": "workshops/tidymodels_intro.html",
-    "title": "Introduction to tidymodels",
-    "section": "",
-    "text": "Description\nThis workshop will teach you core tidymodels packages and their uses: data splitting/resampling with rsample, model fitting with parsnip, measuring model performance with yardstick, and basic pre-processing with recipes. Time permitting, you’ll be introduced to model optimization using the tune package. You’ll learn tidymodels syntax as well as the process of predictive modeling for tabular data.\n\n\nAudience\nThis workshop is for you if you:\n\nare comfortable using tidyverse packages to read data into R, transform and reshape data, and make a variety of graphs, and\nhave had some exposure to basic statistical concepts such as linear models, residuals, etc.\n\nIntermediate or expert familiarity with modeling or machine learning is not required. Interested students who have intermediate or expert familiarity with modeling or machine learning may be interested in the Advanced tidymodels workshop.\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nHannah Frick is a software engineer and statistician on the tidymodels team at Posit. She holds a PhD in statistics and has worked in data science consultancy as well as interdisciplinary research at University College London in cooperation with Team GB Hockey.\n\n\n\n\nSimon Couch works on software for statistical modeling on the tidymodels team at Posit. With a background in statistics and sociology, Simon is passionate about free and open source software and data pedagogy. He is an author and maintainer of several R packages, including the stacks package, which was awarded the 2021 John M. Chambers Statistical Software Award."
-  },
-  {
-    "objectID": "workshops/wtf.html",
-    "href": "workshops/wtf.html",
-    "title": "Add workshop title here",
-    "section": "",
-    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
-  },
-  {
-    "objectID": "workshops/programming_r.html",
-    "href": "workshops/programming_r.html",
+    "objectID": "workshops/shiny_r_intro.html",
+    "href": "workshops/shiny_r_intro.html",
     "title": "Add workshop title here",
     "section": "",
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
@@ -126,15 +56,78 @@
     "text": "Description\nAs most organization’s data migrate to the cloud, the ability to analyze data in-place becomes more important. This workshop will walk you through how to think about remote data, how to access it, and how to analyze it efficiently. We will review the latest in integrations between R and Databricks. The two integrations that we will review are:\n\nSpark via Databricks Connect\nODBC connection\n\nDuring the workshop, we will discuss best practices for when to use which integration, as well as techniques to take your analysis into production.\n\n\nAudience\nThis course is for you if you:\n\nAre an R user\nPlan, or are currently, using Databricks services\nNeed to learn how to access and analyze data in Databricks\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nEdgar co-authored a book called “Mastering Spark with R,” and is currently the maintainer of the sparklyr package. Edgar has also authored multiple articles, blog posts sharing analytics insights, and server infrastructure for data science. He has a background in deploying enterprise reporting, and business intelligence solutions.\nhttps://www.linkedin.com/in/edgararuiz/"
   },
   {
-    "objectID": "workshops/quarto_websites.html",
-    "href": "workshops/quarto_websites.html",
-    "title": "Quarto Websites",
+    "objectID": "workshops/pkg_dev.html",
+    "href": "workshops/pkg_dev.html",
+    "title": "Add workshop title here",
     "section": "",
-    "text": "Description\nDo you need a professional website to showcase your work? Or have you got an idea for a website at work, but it needs to reflect your organization’s brand? If you’ve used Quarto to produce a document, you’ve already got the technical skills to create a Quarto website. In this workshop, you’ll learn everything else you need to build a website and customize its appearance.\nYou’ll get a running start by using a template we’ve designed to be functional and attractive, but also act as a guide for your learning. Then you’ll:\n\nAdd pages and navigation, and learn best practices for structuring your content.\nCustomize the visual appearance of your site by mastering the basics of SCSS and CSS and how they apply to Quarto websites.\nUse listings, a special kind of page, to showcase related content like blog posts, projects, or talks.\n\nBy the end of the workshop you’ll have built and published (if you want) a personal website, but the same tools and techniques will apply to any kind of website you might like to build.\nWe’ll assume you’ve used Quarto to produce documents, but we won’t assume you have any HTML, CSS/SCSS or Git/GitHub experience, nor will we assume any particular programming language (R, Python etc.) or level of programming experience.\n\n\nAudience\nThis course is for you if you:\n\nHave used Quarto to generate documents (e.g. HTML, PDF, MS Word etc.)\nAre comfortable editing plain text documents (e.g .qmd) in your IDE (e.g. RStudio, Visual Studio Code etc.)\nWant to walk away with your own personal website\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nDr. Charlotte Wickham (she/her) is a Developer Educator on the Quarto team at Posit. As part of her job at Posit, Charlotte helps to keep quarto.org—a website about, and also built with, Quarto—up to date. Prior to Posit, she taught Statistics and Data Science at Oregon State University where she received awards for her in-person and online teaching.\n\n\n\n\nEmil Hvitfeldt (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb."
+    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
+  },
+  {
+    "objectID": "workshops/vetiver.html",
+    "href": "workshops/vetiver.html",
+    "title": "Intro to MLOps with vetiver",
+    "section": "",
+    "text": "Description\nData scientists understand what goes into training a machine learning or statistical model, but bringing that model into a production environment can be daunting.\nThis workshop will cover the fundamentals of MLOps (machine learning operations), the practices used to create a MLOps strategy, and what kinds of tasks and components are involved. We’ll use vetiver, a framework for MLOps tasks in Python and R, to version, deploy, and monitor the models you have trained and want to deploy and maintain in production reliably and efficiently.\n\n\nAudience\nWe expect participants to have exposure to basic modeling and machine learning practice, but NOT expert familiarity with advanced ML or MLOps topics.\nThis workshop is for you if you:\n\nhave intermediate R or Python knowledge (this will be a “choose your own adventure” workshop where you can work through the exercises in either R or Python),\ncan read data from CSV and other flat files, transform and reshape data, and make a wide variety of graphs, and\ncan fit a model to data with your modeling framework of choice.\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nIsabel Zimmerman(she/her) is a software engineer at Posit, PBC. As part of her job at Posit, she builds and maintains MLOps Python packages such as vetiver and pins. She has a background as a software engineer/data scientist working with data and models in cloud environments."
+  },
+  {
+    "objectID": "workshops/intro_ds_python.html",
+    "href": "workshops/intro_ds_python.html",
+    "title": "Introduction to Data Science with Python",
+    "section": "",
+    "text": "Description\nThis is not a standard workshop, but a six-week online apprenticeship that culminates in-person at posit::conf(2024).\nHere, you will learn the foundations of Python for data science under the guidance of a Posit Academy mentor and in the company of a close group of fellow learners. You will be expected to complete a weekly curriculum of interactive tutorials, and to attend a weekly presentation meeting with your mentor and fellow learners. Topics will include importing packages and datasets, visualizing data with plotnine, wrangling data with pandas, and reporting reproducibly with Quarto.\nNo prior knowledge of Python required. Visit posit.co/academy to learn more about this uniquely effective learning format.\n\n\n\n\n\n\nImportant dates\n\n\n\n🗓️ Online sessions begin the week of July 1st, 2024.\n🚫 Registration for this workshop will close on June 24th, 2024.\n\n\n\n\nAudience\nThis course is for you if you:\n\nare new to Python,\nhave dabbled in Python, but are not sure how to use Python to do data science, or\nare an R user who wants to work more closely with Python users on your team.\n\n\n\nInstructors\n\n\n\n\n\n\n\n\n\n\nPosit Academy is Posit’s internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-learner collaboration."
+  },
+  {
+    "objectID": "workshops/dataviz.html",
+    "href": "workshops/dataviz.html",
+    "title": "Add workshop title here",
+    "section": "",
+    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Instructor(s)\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nInstructor(s)\n\n\nDescription\n\n\n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdd workshop title here\n\n\nInstructor 1 name, Instructor 2 name (remove if single instructor)\n\n\n1-sentence summary of workshop. \n\n\n\n\nAdvanced Shiny for Python\n\n\nGordon Shotwell\n\n\nTake your Shiny apps to the next level with modules \n\n\n\n\nDashboards with Quarto (R + Python)\n\n\nMine Çetinkaya-Rundel\n\n\nCreate sleek, elegant, and eye-catching dashboards with static and/or interactive elements with Quarto. For R and Python users. \n\n\n\n\nData Science Workflows with Posit Tools — Python Focus\n\n\nSam Edwardes, Gagandeep Singh\n\n\nBuild an opinionated and Pythonic data science workflow using Posit’s professional products and open-source tools. \n\n\n\n\nData Science Workflows with Posit Tools — R Focus\n\n\nRyan Johnson, Katie Masiello\n\n\nUse open source packages and Posit’s professional tools — Workbench, Connect, and Package Manager — to improve your end-to-end data science workflows. \n\n\n\n\nIntro to MLOps with vetiver\n\n\nIsabel Zimmerman\n\n\nUtilize the vetiver framework in Python and R for efficient versioning, deployment, and monitoring of machine learning models in production. \n\n\n\n\nIntroduction to Data Science with Python\n\n\nPosit Academy Team\n\n\nLearn the foundations of Python for data science through a cohort-based, mentor-led, hands-on apprenticeship for working professionals. \n\n\n\n\nIntroduction to Data Science with R and Tidyverse\n\n\nPosit Academy Team\n\n\nLearn the foundations of R for data science through a cohort-based, mentor-led, hands-on apprenticeship for working professionals. \n\n\n\n\nIntroduction to tidymodels\n\n\nHannah Frick, Simon Couch\n\n\nMachine learning with tabular data using the tidymodels framework. \n\n\n\n\nQuarto Websites\n\n\nCharlotte Wickham, Emil Hvitfeldt\n\n\nBuild a website from scratch with Quarto. \n\n\n\n\nUsing Databricks with R\n\n\nEdgar Ruiz\n\n\nOverview of the latests methods to connect, and interact with Databricks services. \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "workshops/shiny_python_intro.html",
     "href": "workshops/shiny_python_intro.html",
+    "title": "Add workshop title here",
+    "section": "",
+    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
+  },
+  {
+    "objectID": "workshops/tidymodels_intro.html",
+    "href": "workshops/tidymodels_intro.html",
+    "title": "Introduction to tidymodels",
+    "section": "",
+    "text": "Description\nThis workshop will teach you core tidymodels packages and their uses: data splitting/resampling with rsample, model fitting with parsnip, measuring model performance with yardstick, and basic pre-processing with recipes. Time permitting, you’ll be introduced to model optimization using the tune package. You’ll learn tidymodels syntax as well as the process of predictive modeling for tabular data.\n\n\nAudience\nThis workshop is for you if you:\n\nare comfortable using tidyverse packages to read data into R, transform and reshape data, and make a variety of graphs, and\nhave had some exposure to basic statistical concepts such as linear models, residuals, etc.\n\nIntermediate or expert familiarity with modeling or machine learning is not required. Interested students who have intermediate or expert familiarity with modeling or machine learning may be interested in the Advanced tidymodels workshop.\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nHannah Frick is a software engineer and statistician on the tidymodels team at Posit. She holds a PhD in statistics and has worked in data science consultancy as well as interdisciplinary research at University College London in cooperation with Team GB Hockey.\n\n\n\n\nSimon Couch works on software for statistical modeling on the tidymodels team at Posit. With a background in statistics and sociology, Simon is passionate about free and open source software and data pedagogy. He is an author and maintainer of several R packages, including the stacks package, which was awarded the 2021 John M. Chambers Statistical Software Award."
+  },
+  {
+    "objectID": "workshops/ml_dl_python.html",
+    "href": "workshops/ml_dl_python.html",
+    "title": "Add workshop title here",
+    "section": "",
+    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
+  },
+  {
+    "objectID": "workshops/tidymodels_advanced.html",
+    "href": "workshops/tidymodels_advanced.html",
+    "title": "Add workshop title here",
+    "section": "",
+    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
+  },
+  {
+    "objectID": "workshops/quarto_dashboards.html",
+    "href": "workshops/quarto_dashboards.html",
+    "title": "Dashboards with Quarto (R + Python)",
+    "section": "",
+    "text": "Description\nYou already analyze and summarize your data in computational notebooks with R and/or Python. What’s next? You can share your insights or allow others to make their own conclusions in eye-catching dasboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including Plotly, Leaflet, Jupyter Widgets, htmlwidgets; static graphics (Matplotlib, Seaborn, ggplot2, etc.); tabular data; value boxes; and text annotations. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes. And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – using any notebook editor (JupyterLab, etc.) or in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.). This workshop will walk you through building an increasingly complex dashboard using various layout options and and deploy them as static web pages (with no special server required) as well as with a Shiny Server on the backend for enhanced interactivity.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nDr. Mine Çetinkaya-Rundel (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics."
+  },
+  {
+    "objectID": "workshops/arrow.html",
+    "href": "workshops/arrow.html",
     "title": "Add workshop title here",
     "section": "",
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
@@ -147,11 +140,18 @@
     "text": "Description\nThis is not a standard workshop, but a six-week online apprenticeship that culminates in-person at posit::conf(2024).\nHere, you will learn the foundations of R and the Tidyverse under the guidance of a Posit Academy mentor and in the company of a close group of fellow learners. You will be expected to complete a weekly curriculum of interactive tutorials, and to attend a weekly presentation meeting with your mentor and fellow learners. Topics will include the basics of R, importing, visualizing and wrangling data with the tidyverse, and reporting reproducibly with Quarto.\nNo prior knowledge of R required. Visit posit.co/academy to learn more about this uniquely effective learning format.\n\n\n\n\n\n\nImportant dates\n\n\n\n🗓️ Online sessions begin the week of July 1st, 2024.\n🚫 Registration for this workshop will close on June 24th, 2024.\n\n\n\n\nAudience\nThis course is for you if you:\n\nare new to R or the Tidyverse,\nhave dabbled in R, but now want a rigorous foundation in up-to-date data science best practices, or\nare a SAS or Excel user looking to switch your workflows to R.\n\n\n\nInstructors\n\n\n\n\n\n\n\n\n\n\nPosit Academy is Posit’s internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-learner collaboration."
   },
   {
-    "objectID": "workshops/r_pharma.html",
-    "href": "workshops/r_pharma.html",
+    "objectID": "workshops/programming_r.html",
+    "href": "workshops/programming_r.html",
     "title": "Add workshop title here",
     "section": "",
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
+  },
+  {
+    "objectID": "workshops/quarto_websites.html",
+    "href": "workshops/quarto_websites.html",
+    "title": "Quarto Websites",
+    "section": "",
+    "text": "Description\nDo you need a professional website to showcase your work? Or have you got an idea for a website at work, but it needs to reflect your organization’s brand? If you’ve used Quarto to produce a document, you’ve already got the technical skills to create a Quarto website. In this workshop, you’ll learn everything else you need to build a website and customize its appearance.\nYou’ll get a running start by using a template we’ve designed to be functional and attractive, but also act as a guide for your learning. Then you’ll:\n\nAdd pages and navigation, and learn best practices for structuring your content.\nCustomize the visual appearance of your site by mastering the basics of SCSS and CSS and how they apply to Quarto websites.\nUse listings, a special kind of page, to showcase related content like blog posts, projects, or talks.\n\nBy the end of the workshop you’ll have built and published (if you want) a personal website, but the same tools and techniques will apply to any kind of website you might like to build.\nWe’ll assume you’ve used Quarto to produce documents, but we won’t assume you have any HTML, CSS/SCSS or Git/GitHub experience, nor will we assume any particular programming language (R, Python etc.) or level of programming experience.\n\n\nAudience\nThis course is for you if you:\n\nHave used Quarto to generate documents (e.g. HTML, PDF, MS Word etc.)\nAre comfortable editing plain text documents (e.g .qmd) in your IDE (e.g. RStudio, Visual Studio Code etc.)\nWant to walk away with your own personal website\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nDr. Charlotte Wickham (she/her) is a Developer Educator on the Quarto team at Posit. As part of her job at Posit, Charlotte helps to keep quarto.org—a website about, and also built with, Quarto—up to date. Prior to Posit, she taught Statistics and Data Science at Oregon State University where she received awards for her in-person and online teaching.\n\n\n\n\nEmil Hvitfeldt (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb."
   },
   {
     "objectID": "workshops/posit_tools_r.html",
@@ -161,17 +161,17 @@
     "text": "Description\nIn this R-focused workshop, we will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modeling, and more. We’ll use Posit’s open source and professional tools to string all the pieces together for an efficient workflow. We’ll discuss environments, managing deployed content, working with databases, and interoperability across data products.\n\n\nAudience\nThis course is for you if you:\n\nBuild finished data products starting from raw data and are looking to improve your workflow\nAre looking to expand your knowledge of Posit open source and professional tools\nWant to improve interoperability between data products in your work or on your team\nHave experience developing in R. An analogous course with a Python focus is also offered.\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nRyan Johnson is a Data Science Advisor at Posit with a background in Microbiology and Bioinformatics. He obtained his PhD from the Uniformed Services University in Maryland and did his postdoctoral training at the National Human Genome Research Institute, NIH. The only thing that rivals his love for infectious diseases is generating ‘super cool’ visualizations from large data sets using R and RStudio. In his free time, you can find Ryan running marathons/ultramarathons in the DC area or hiking miles along the Appalachian Trail. Ryan resides in Gaithersburg with his wife and two feline co-workers.\n\n\n\n\nKatie Masiello is a Solutions Engineer at Posit. A mechanical engineer by training, she found her calling in data science while working statistical analysis in the aerospace industry. A good cup of coffee, reproducibility, and making life easier for the next user are three things she loves most. Katie is an avid knitter and knitr, and she can often be found trying to tame her ridiculously overgrown garden, collecting pebbles, or thinking about taking up running as a hobby."
   },
   {
-    "objectID": "workshops/tables.html",
-    "href": "workshops/tables.html",
+    "objectID": "workshops/dev_ops.html",
+    "href": "workshops/dev_ops.html",
     "title": "Add workshop title here",
     "section": "",
     "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
   },
   {
-    "objectID": "workshops/quarto_dashboards.html",
-    "href": "workshops/quarto_dashboards.html",
-    "title": "Dashboards with Quarto (R + Python)",
+    "objectID": "workshops/r_pharma.html",
+    "href": "workshops/r_pharma.html",
+    "title": "Add workshop title here",
     "section": "",
-    "text": "Description\nYou already analyze and summarize your data in computational notebooks with R and/or Python. What’s next? You can share your insights or allow others to make their own conclusions in eye-catching dasboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including Plotly, Leaflet, Jupyter Widgets, htmlwidgets; static graphics (Matplotlib, Seaborn, ggplot2, etc.); tabular data; value boxes; and text annotations. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes. And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – using any notebook editor (JupyterLab, etc.) or in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.). This workshop will walk you through building an increasingly complex dashboard using various layout options and and deploy them as static web pages (with no special server required) as well as with a Shiny Server on the backend for enhanced interactivity.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nDr. Mine Çetinkaya-Rundel (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit. Mine’s work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics."
+    "text": "Description\nFull workshop description goes here. Multi-paragraph ok.\n\n\nAudience\nThis course is for you if you:\n\nlist at least\nthree attributes\nfor your target audience\n\n\n\nInstructor(s)\n\n\n\n\n\n\n\n\n\n\nInstructor bio, including link to homepage."
   }
 ]

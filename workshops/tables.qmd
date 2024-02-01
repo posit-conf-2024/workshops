@@ -1,35 +1,47 @@
 ---
-title: Add workshop title here
+title: Making Tables with gt and Great Tables
 author:
-  - name: Instructor 1 name
+  - name: Richard Iannone
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
+      - name: Posit, PBC
+  - name: Michael Chow
     affiliations:
-      - name: Instructor 2 affiliation      
+      - name: Posit, PBC      
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  Create publication-quality tables with gt and Great Tables. For R and Python users.
+categories: [R, Python, Quarto]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+The gt package for R and the Great Tables package for Python both deal with an important element of written communication: tables. We don’t believe tables have to be drab or dull. Rather, we think that tables have the power to inspire and to excite!
+
+In this workshop, you’ll learn about how to make tables that can accurately convey information yet look aesthetically pleasing. We will handle the first stumbling block: what do we even call the different parts of a table? After getting the table terminology down we’ll learn how to effectively assemble the table components and create powerful displays of information. We will start simply and progressively, working toward more complex table designs. Since there are two packages (one in R, one in Python) we will take a blended approach and learn about table generation in bilingual fashion.
+
+We’ll cover the following:
+
+* Create table components and put them together (e.g., header, footer, stub, etc.)
+* Format cell values (numeric/scientific, date/datetime, etc.)
+* Rearranging columns and handling column value alignments
+* Styling the table, either through data values or on a more granular level
+* Adding icons, plots, images, and incorporating your own HTML
+* more!
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+-   have some basic working knowledge of either R or Python (separate sets of materials will be available for both R and Python),
 
--   three attributes
+-   have data you often need to present as data summaries
 
--   for your target audience
+-   would like to level-up your ability to generate tables for publication
 
 # Instructor(s)
 
 |                               |     |                                             |
-|------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+|------------------|------------------|------------------------------------|
+| ![](images/richard-iannone.jpg) |     | [Richard Iannone](https://www.github.com/rich-iannone)(he/him) is a software engineer at Posit, PBC. He mainly works on open-source packages; here is a short list of packages that he is focused on: [gt](https://github.com/rstudio/gt), [Great Tables](https://github.com/posit-dev/great-tables), and [blastula](https://github.com/rstudio/blastula). | |
+| ![](images/michael-chow.jpg) |     | Human memory, statistics, and computing.
 
 : {tbl-colwidths="\[25,5,70\]"}

@@ -15,6 +15,7 @@
       "/workshops/dev_ops.html",
       "/workshops/wtf.html",
       "/workshops/r_pharma.html",
+      "/workshops/databases.html",
       "/workshops/tables.html",
       "/workshops/shiny_python_adv.html",
       "/workshops/quarto_dashboards.html",
@@ -26,8 +27,7 @@
       "/workshops/intro_ds_r.html",
       "/workshops/tidymodels_intro.html",
       "/workshops/quarto_websites.html",
-      "/workshops/databricks.html",
-      "/workshops/databases.html"
+      "/workshops/databricks.html"
     ]
   }
 ]

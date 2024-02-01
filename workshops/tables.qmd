@@ -14,7 +14,7 @@ categories: [R, Python, Quarto]
 
 # Description
 
-The gt package for R and the Great Tables package for Python both deal with an important element of written communication: tables. We don’t believe tables have to be drab or dull. Rather, we think that tables have the power to inspire and to excite! This is why we put so much effort toward making these packages.
+The gt package for R and the Great Tables package for Python both deal with an important element of written communication: tables. We don’t believe tables have to be drab or dull. Rather, we think that tables have the power to inspire and to excite!
 
 In this workshop, you’ll learn about how to make tables that can accurately convey information yet look aesthetically pleasing. We will handle the first stumbling block: what do we even call the different parts of a table? After getting the table terminology down we’ll learn how to effectively assemble the table components and create powerful displays of information. We will start simply and progressively, working toward more complex table designs. Since there are two packages (one in R, one in Python) we will take a blended approach and learn about table generation in bilingual fashion.
 

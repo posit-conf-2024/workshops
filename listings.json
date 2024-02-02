@@ -10,7 +10,6 @@
       "/workshops/pkg_dev.html",
       "/workshops/arrow.html",
       "/workshops/shiny_r_intro.html",
-      "/workshops/r_in_production.html",
       "/workshops/quarto_intro.html",
       "/workshops/dev_ops.html",
       "/workshops/wtf.html",
@@ -27,6 +26,7 @@
       "/workshops/tidymodels_intro.html",
       "/workshops/tables.html",
       "/workshops/quarto_websites.html",
+      "/workshops/r_in_production.html",
       "/workshops/databricks.html"
     ]
   }

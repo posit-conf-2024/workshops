@@ -1,35 +1,35 @@
 ---
-title: Add workshop title here
+title: What They Forgot To Teach You About R
 author:
-  - name: Instructor 1 name
-    affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
-    affiliations:
-      - name: Instructor 2 affiliation      
+  - name: Shannon Pileggi
+    affiliations: The Prostate Cancer Clinical Trials Consortium
+  - name: E. David Aja
+    affiliations: Posit
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  This workshop is designed to level up experienced R programmers in debugging and personal R administration.
+categories: [debugging, functions, package managment, R administration, reproduciblity]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+This 1 day What They Forgot (WTF) To Teach You About R workshop is for experienced R and RStudio users who want to better understand R execution via debugging and personal R administration.
+At the conclusion of the workshop you will have distinct strategies for debugging your own code versus someone else's code, as well as strategies for maintaining your R installation through the lens of reproducibility.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+-   Have you been using R for a while and you want a deeper understanding of what code is executing when and where it is coming from.
 
--   three attributes
+-   Want strategies for overcoming roadblocks when when all else has failed in function execution or package installation.
 
--   for your target audience
+-   Are willing to get into the weeds of your R installation, project organization, error messages, and source code.
 
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+|                                 |     |                                                                                                                                                                                                                                                                                                                                                |
+|----------------------|------------------|--------------------------------|
+| ![](images/david-aja.jpg)       |     | [E. David Aja](https://edavidaja.com/) is a Solutions Engineer at Posit. Before joining Posit, he worked as a data scientist in the public sector.                                                                                                                                                                                             |
+| ![](images/shannon-pileggi.jpg) |     | [Shannon Pileggi](https://www.pipinghotdata.com/) (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, an occasional blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible. |
 
 : {tbl-colwidths="\[25,5,70\]"}

@@ -1,35 +1,38 @@
 ---
-title: Add workshop title here
+title: Big Data in R with Arrow
 author:
-  - name: Instructor 1 name
+  - name: Nic Crane
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
+      - name: Apache Arrow PMC
+  - name: Steph Hazlitt
     affiliations:
-      - name: Instructor 2 affiliation      
+      - name: BC Stats
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  An introduction to Apache Arrow for creating efficient analysis pipelines with larger-than-memory data in R.
+categories: [R, Arrow, Data Engineering]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+Data analysis pipelines with larger-than-memory data are becoming more and more commonplace. In this workshop you will be introduced to Apache Arrow, a multi-language toolbox for working with larger-than-memory tabular data, to create seamless "big" data analysis pipelines with R.
+
+This workshop will focus on using the the arrow R package---a mature R interface to Apache Arrow---to process larger-than-memory files and multi-file data sets with arrow using familiar dplyr syntax. You'll learn to create and use the interoperable data file format Parquet for efficient data storage and access, with data stored both on disk and in the cloud, and also how to exercise fine control over data types to avoid common large data pipeline problems. This workshop will provide a foundation for new-to-Arrow users, giving you access to a powerful suite of tools for performant analysis of larger-than-memory data in R.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+-   want to learn how to work with tabular data that is too large to fit in memory using existing R and tidyverse syntax implemented in Arrow
 
--   three attributes
+-   want to learn about Parquet, a powerful file format alternative to CSV files
 
--   for your target audience
+-   want to learn how to engineer your tabular data storage for more performant access and analysis with Apache Arrow
 
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+|                               |     |                                                                                                                                                                                                                                                                                                                     |
+|-------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](images/nic_crane.png)     |     | [Nic Crane](https://niccrane.com) is a software engineer with a background in data science, and has a lot of enthusiasm for open source and learning and teaching all things R. Nic is part of the core team who maintain the Arrow R package.                                                                      |
+| ![](images/steph-hazlitt.jpg) |     | Steph Hazlitt is a data scientist, researcher and R enthusiast. She has spent the better part of her career wrangling data with R and supporting people and teams in creating and sharing data science-related products and open source software. Steph is the Director of Data Science Partnerships with BC Stats. |
 
 : {tbl-colwidths="\[25,5,70\]"}

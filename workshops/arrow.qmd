@@ -7,7 +7,7 @@ author:
       - name: BC Stats
 description: |
   An introduction to Apache Arrow for creating efficient analysis pipelines with larger-than-memory data in R.
-categories: [R, Arrow, Data Engineering, Data Science]
+categories: [R, Arrow, Data Engineering]
 ---
 
 # Description

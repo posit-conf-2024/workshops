@@ -1,5 +1,5 @@
 ---
-title: Add workshop title here
+title: Big Data in R with Arrow (Details TBD)
 author:
   - name: Instructor 1 name
     affiliations:

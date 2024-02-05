@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/workshops/shiny_python_adv.html",
+      "/workshops/tidymodels_advanced.html",
       "/workshops/arrow.html",
       "/workshops/causal.html",
       "/workshops/quarto_dashboards.html",
@@ -24,7 +25,6 @@
       "/workshops/r_in_production.html",
       "/workshops/shiny_r_intro.html",
       "/workshops/shiny_python_intro.html",
-      "/workshops/tidymodels_advanced.html",
       "/workshops/databricks.html",
       "/workshops/wtf.html"
     ]

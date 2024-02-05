@@ -32,7 +32,6 @@ This course is probably not for you if:
 
 - you want to learn about less commonly-used Arrow features such as data streaming functionality
 
-
 # Instructor(s)
 
 |                               |     |                                                                                                                                                                                                                                                                                                                     |

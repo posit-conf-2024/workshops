@@ -16,6 +16,7 @@
       "/workshops/vetiver.html",
       "/workshops/intro_ds_python.html",
       "/workshops/intro_ds_r.html",
+      "/workshops/shiny_python_intro.html",
       "/workshops/tidymodels_intro.html",
       "/workshops/ml_python.html",
       "/workshops/tables.html",
@@ -24,7 +25,6 @@
       "/workshops/quarto_intro.html",
       "/workshops/r_in_production.html",
       "/workshops/shiny_r_intro.html",
-      "/workshops/shiny_python_intro.html",
       "/workshops/databricks.html",
       "/workshops/wtf.html"
     ]

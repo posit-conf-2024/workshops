@@ -25,6 +25,6 @@ Shiny is an R package that makes it easy to build interactive web apps straight 
 
 |                               |     |                                             |
 |-------------------------------|-----|---------------------------------------------|
-| ![](images/colin-rundel.jpg)  |     | [Colin Rundel](https://rundel.github.io/) is Associate Professor of the Practice at Duke University in the department of Statistical Science where he has been teaching since 2012. His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python. He has been teaching and using Shiny since 2015. |
+| ![](images/colin-rundel.png)  |     | [Colin Rundel](https://rundel.github.io/) is Associate Professor of the Practice at Duke University in the department of Statistical Science where he has been teaching since 2012. His work focuses on teaching statistical computing to both undergraduate and graduate students in both R and Python. He has been teaching and using Shiny since 2015. |
 
 : {tbl-colwidths="\[25,5,70\]"}

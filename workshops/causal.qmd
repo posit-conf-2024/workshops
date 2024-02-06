@@ -1,35 +1,39 @@
 ---
-title: Add workshop title here
+title: Causal Inference in R
 author:
-  - name: Instructor 1 name
+  - name: Malcolm Barrett
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
+      - name: Stanford University
+  - name: Travis Gerke
     affiliations:
-      - name: Instructor 2 affiliation      
+      - name: PCCTC & cStructure
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  Learn to answer causal questions with causal diagrams, propensity score modeling, and more.
+categories: [r, modeling, causal, analysis]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+In this workshop, we’ll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting.
+
+In both data science and academic research, prediction modeling is often not enough; to answer many questions, we need to approach them causally. In this workshop, we’ll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting. We’ll also show that by distinguishing predictive models from causal models, we can better take advantage of both tools. You’ll be able to use the tools you already know--the tidyverse, regression models, and more--to answer the questions that are important to your work.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+- know how to fit a linear regression model in R,
 
--   three attributes
+- have a basic understanding of data manipulation and visualization using tidyverse tools, and
 
--   for your target audience
+- are interested in understanding the fundamentals behind how to move from estimating correlations to causal relationships.
 
 # Instructor(s)
 
 |                               |     |                                             |
 |------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+| ![](images/malcolm-barrett.png) |     | [Malcolm Barrett](https://malco.io/) is an epidemiologist and research software engineer at Stanford University. After receiving his Ph.D. in epidemiology from the University of Southern California, he worked as a data scientist at Apple and Posit. His work has focused on causal inference methodology and software development, including many R packages for causal inference. 
+ |
+| ![](images/travis-gerke.jpg) |     | [Travis Gerke](https://travisgerke.com/), Sc.D., is Director of Data Science at the PCCTC, a contract research organization that facilitates clinical trials and real-world evidence studies in oncology. He is also co-founder and chief scientific officer of cStructure, a technology company built to empower teams with a collaborative causal design and inference platform. |
 
 : {tbl-colwidths="\[25,5,70\]"}

@@ -1,35 +1,58 @@
 ---
-title: Add workshop title here
+title: >
+  Package Development: The Rest of the Owl
 author:
-  - name: Instructor 1 name
+  - name: Jenny Bryan
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
-    affiliations:
-      - name: Instructor 2 affiliation      
-description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+      - name: Posit
+description: >
+  Learn what's different about writing R code that lives in a package (vs. a
+  script).
+categories: [R, package development]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+In R, the fundamental unit of reusable and shareable code is a package, containing helpful functions, documentation, and sometimes sample data.
+Putting R code in a package is the best way to share our code with others or to share code across different projects.
+
+This workshop assumes you've already dipped your toe in package development, i.e. that you've managed to create a basic package and pass `R CMD check`.
+In terms of "How to draw an owl", you've definitely drawn some circles.
+But now it's time to draw the rest of the owl!
+
+![](https://datasciencebox.org/images/design-owl.jpg)
+
+You will learn workflows and skills that are (a) very important for package development and (b) very different from writing R scripts.
+We will lean heavily on the tools and principles used by the tidyverse team, embodied in the devtools family of packages, including usethis, testthat, and roxygen2.
+
+The exact topics won't be finalized until closer to conf, but they are likely to be drawn from this list:
+
+-   Fundamental daily workflows: `devtools::load_all()` and `check()`
+-   Documentation: function documentation, vignettes, and website
+-   Dependencies and namespaces: how to use other packages in yours and how to distinguish the parts of your package that are internal vs. external
+-   Testing: the testthat package and the philosophy of writing tests as you go (vs. "later")
+-   Debugging: beyond print statements
+-   Data: internal data vs. data available to your user
+
+It is likely we will reserve a chunk of time late in the day for you to apply something you've learned to your own package(s).
+This is a good chance to talk things through with members of the tidyverse team.
+
+This will be an interactive 1-day workshop, and we will be using the RStudio IDE to work through the materials.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
-
--   three attributes
-
--   for your target audience
+-   Are very comfortable writing R scripts and functions.
+-   Have already created a basic package, e.g., you've successfully worked through [The Whole Game chapter from R Packages](https://r-pkgs.org/whole-game.html) or have equivalent experience.
+-   Have concrete plans for one or more specific packages you want to create. You might have even started implementing these plans.
+-   Are interested in using devtools/RStudio for package development.
+-   Are at least curious about Git/GitHub. We won't have time to teach this explicitly, but you will certainly see Git/GitHub through out the day.
 
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|-------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+|                              |     |                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](images/jenny-bryan.jpeg) |     | Jenny is a software engineer at Posit, usually working on the tidyverse packages or its supporting ecosystem, and is a member of the R Foundation. She recently co-authored the second edition of [the R Packages book](https://r-pkgs.org/) and is the maintainer of the [devtools](https://devtools.r-lib.org/) and [usethis](https://usethis.r-lib.org/) packages (among others). |
 
 : {tbl-colwidths="\[25,5,70\]"}

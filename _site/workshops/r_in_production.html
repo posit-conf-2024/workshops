@@ -2,16 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.545">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Instructor 1 name">
-<meta name="author" content="Instructor 2 name (remove if single instructor)">
+<meta name="author" content="Hadley Wickham">
 <meta name="dcterms.date" content="2024-08-12">
-<meta name="description" content="1-sentence summary of workshop.">
+<meta name="description" content="Learn how to write robust R code that both works reliably in production, and when it fails, is easy to debug.">
 
-<title>Add workshop title here</title>
+<title>R in Production</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -107,39 +106,29 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Add workshop title here</h1>
+<h1 class="title">R in Production</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">add</div>
-    <div class="quarto-category">comma</div>
-    <div class="quarto-category">separated</div>
-    <div class="quarto-category">categories</div>
+    <div class="quarto-category">r</div>
+    <div class="quarto-category">production</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    <p>1-sentence summary of workshop.</p>
+    <p>Learn how to write robust R code that both works reliably in production, and when it fails, is easy to debug.</p>
   </div>
 </div>
 
 <div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Instructor 1 name </p>
+    <p class="author">Hadley Wickham </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            Instructor 1 affiliation
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Instructor 2 name (remove if single instructor) </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Instructor 2 affiliation
+            Posit
           </p>
       </div>
   </div>
@@ -164,15 +153,21 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="description" class="level1">
 <h1>Description</h1>
-<p>Full workshop description goes here. Multi-paragraph ok.</p>
+<p>What it means to put R in production varies tremendously from organisation to organisation. However, I believe that there are common principles that you can learn to improve your code, regardless of the precise details of what production means for your organisation.</p>
+<p>This workshop is organised around three big differences between running a local script on your computer and putting your code into production:</p>
+<ul>
+<li><strong>Not just once</strong>: production code isn’t a one-off script; it runs repeatedly, and needs to run reliably even as the environment around it (e.g.&nbsp;R package versions and input data) changes. How can you ensure that code continues to run reliably months and years after you wrote it, and when there’s a problem it clearly reports on it.</li>
+<li><strong>Not just your computer</strong>: production code doesn’t run on your computer. It typically runs on some other server where you can’t interactively experiment. This poses particular challenges for authentication and debugging.</li>
+<li><strong>Not just you</strong>: the responsibility for production code is typically shared across a team. How can you ensure that you’re all working together as effectively as possible, sharing code and best practices, and continuing to get better at your job over time.</li>
+</ul>
 </section>
 <section id="audience" class="level1">
 <h1>Audience</h1>
 <p>This course is for you if you:</p>
 <ul>
-<li><p>list at least</p></li>
-<li><p>three attributes</p></li>
-<li><p>for your target audience</p></li>
+<li><p>Get frustrated debugging R code that’s running on another computer.</p></li>
+<li><p>Struggle keep your code running reliably as packages and data change over time.</p></li>
+<li><p>Want to generally improve the quality of your production code.</p></li>
 </ul>
 </section>
 <section id="instructors" class="level1">
@@ -185,9 +180,9 @@ ul.task-list li input[type="checkbox"] {
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="images/name-lastname.jpg" class="img-fluid"></td>
+<td><img src="images/hadley-wickham.jpeg" class="img-fluid"></td>
 <td></td>
-<td>Instructor bio, including link to homepage.</td>
+<td>Hadley is Chief Scientist at Posit PBC, winner of the 2019 COPSS award, and a member of the R Foundation. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (like the tidyverse, which includes ggplot2, dplyr, and tidyr)and principled software development (e.g.&nbsp;roxygen2, testthat, and pkgdown). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, <a href="http://hadley.nz" class="uri">http://hadley.nz</a>.</td>
 </tr>
 </tbody>
 </table>

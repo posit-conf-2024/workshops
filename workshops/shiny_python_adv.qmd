@@ -11,9 +11,14 @@ categories: [python, shiny, production, advanced]
 
 # Description
 
-Our Intro to Shiny for Python workshop takes you through the basics of building Shiny for Python applications with Shiny Express. This course builds on those concepts and teaches you how to build and maintain large, mission-critical applications in Shiny. After this one-day workshop you will understand how to identify problematic Shiny code, and how to build robust apps which are easy to maintain and extend.
+Our Intro to Shiny for Python workshop takes you through the basics of building Shiny for Python applications with Shiny Express. This course builds on the concepts from the introductory course and teaches you how to build and maintain large, mission-critical applications in Shiny. After this one-day workshop you will understand how to identify and troubleshoot problematic Shiny code, and how to build robust apps which are easy to maintain and extend.
 
-The topics we will cover are: - What is Shiny Core and why do we use it? - Basics of Shiny modules - Communicating between modules - Testing Shiny applications with pytest and playwright
+The topics we will cover are: 
+
+- What is Shiny Core and why do we use it? 
+- Basics of Shiny modules 
+- Communicating between modules 
+- Testing Shiny applications with pytest and playwright
 
 # Audience
 

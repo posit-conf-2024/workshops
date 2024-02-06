@@ -1,5 +1,5 @@
 ---
-title: Introduction to Quarto with R & RStudio
+title: Introduction to Quarto
 author:
   - name: Andrew Bray
     affiliations:

@@ -4,9 +4,10 @@
     "items": [
       "/workshops/shiny_python_adv.html",
       "/workshops/tidymodels_advanced.html",
+      "/workshops/shiny_r_adv.html",
       "/workshops/arrow.html",
-      "/workshops/causal.html",
       "/workshops/quarto_dashboards.html",
+      "/workshops/causal.html",
       "/workshops/posit_tools_python.html",
       "/workshops/posit_tools_r.html",
       "/workshops/databases.html",
@@ -18,13 +19,13 @@
       "/workshops/intro_ds_r.html",
       "/workshops/quarto_intro.html",
       "/workshops/shiny_python_intro.html",
+      "/workshops/shiny_r_intro.html",
       "/workshops/tidymodels_intro.html",
       "/workshops/ml_python.html",
       "/workshops/tables.html",
       "/workshops/pkg_dev.html",
       "/workshops/quarto_websites.html",
       "/workshops/r_in_production.html",
-      "/workshops/shiny_r_intro.html",
       "/workshops/databricks.html",
       "/workshops/wtf.html"
     ]

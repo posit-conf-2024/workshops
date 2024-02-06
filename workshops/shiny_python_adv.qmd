@@ -34,6 +34,6 @@ This course is probably not for you if: - You aren't really comfortable with Pyt
 
 |                               |     |                                             |
 |-------------------------------|-----|---------------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+| ![](images/gordon_shotwell.jpeg) |     | Instructor bio, including link to homepage. |
 
 : {tbl-colwidths="\[25,5,70\]"}

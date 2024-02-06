@@ -2,8 +2,6 @@
 title: Big Data in R with Arrow
 author:
   - name: Nic Crane
-    affiliations:
-      - name: Apache Arrow PMC
   - name: Steph Hazlitt
     affiliations:
       - name: BC Stats
@@ -28,11 +26,17 @@ This course is for you if you:
 
 -   want to learn how to engineer your tabular data storage for more performant access and analysis with Apache Arrow
 
+This course is probably not for you if:
+
+- you already have extensive Arrow experience and want to learn about the framework in general rather than how to work with it in R
+
+- you want to learn about less commonly-used Arrow features such as data streaming functionality
+
 # Instructor(s)
 
 |                               |     |                                                                                                                                                                                                                                                                                                                     |
 |-------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](images/nic_crane.png)     |     | [Nic Crane](https://niccrane.com) is a software engineer with a background in data science, and has a lot of enthusiasm for open source and learning and teaching all things R. Nic is part of the core team who maintain the Arrow R package.                                                                      |
+| ![](images/nic_crane.png)     |     | [Nic Crane](https://niccrane.com) is an R consultant with a background in data science and software engineering.  They are passionate about open source, and learning and teaching all things R. Nic is part of the core team that maintain the Arrow R package, and a co-author of "Scaling up with R and Arrow", due to be published by CRC Press later this year. |
 | ![](images/steph-hazlitt.jpg) |     | Steph Hazlitt is a data scientist, researcher and R enthusiast. She has spent the better part of her career wrangling data with R and supporting people and teams in creating and sharing data science-related products and open source software. Steph is the Director of Data Science Partnerships with BC Stats. |
 
 : {tbl-colwidths="\[25,5,70\]"}

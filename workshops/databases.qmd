@@ -1,35 +1,44 @@
 ---
-title: Databases (Details TBD)
+title: Databases with R
 author:
-  - name: Instructor 1 name
+  - name: Kirill Müller
     affiliations:
-      - name: Instructor 1 affiliation
-  - name: Instructor 2 name (remove if single instructor)
-    affiliations:
-      - name: Instructor 2 affiliation      
+      - name: cynkra
 description: |
-  1-sentence summary of workshop.
-categories: [add, comma, separated, categories]
+  An introduction to databases and DuckDB with R.
+categories: [R, databases, DuckDB]
 ---
 
 # Description
 
-Full workshop description goes here. Multi-paragraph ok.
+As a data professional, you likely have to deal with databases that are larger than your available RAM.
+Downloading the data requires patience, applying traditional workflows is frustrating.
+This workshop will teach you to work with your (large) data:
+
+-   if it resides in a traditional database, effortlessly
+
+-   from local storage, using DuckDB, a modern database engine tailored to data analysis
+
+The workshop will introduce basic database concepts and move on with practical work with traditional databases and DuckDB.
+You are encouraged to bring your own data(base) to immediately apply what you have learned during the workshop.
+Among others, the workshop showcases the DBI, dbplyr, duckdb, duckplyr, and dm packages.
 
 # Audience
 
 This course is for you if you:
 
--   list at least
+-   have worked with the dplyr package.
 
--   three attributes
+-   have just read or heard about databases and are ready to get your hands dirty.
 
--   for your target audience
+-   performed basic operations on a database, and you would like to deepen your knowledge.
+
+-   have heard about DuckDB and want to know what makes it unique and how to leverage it in your daily workflow.
 
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|------------------------------------|
-| ![](images/name-lastname.jpg) |     | Instructor bio, including link to homepage. |
+|                               |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|-------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](images/kirill-muller.jpg) |     | [Kirill Müller](https://www.cynkra.com/about/) has been working on the boundary between data and computer science for more than 25 years. He has been awarded five R consortium projects to improve database connectivity and performance in R. Kirill is a core contributor to several tidyverse packages, including dplyr and tibble, and is currently working on duckplyr, the next iteration of dplyr that uses DuckDB as a backend. He holds a Ph.D. in Civil Engineering from ETH Zurich and is a founder and partner at cynkra. |
 
 : {tbl-colwidths="\[25,5,70\]"}

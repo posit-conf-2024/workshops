@@ -4,7 +4,6 @@
     "items": [
       "/workshops/shiny_python_adv.html",
       "/workshops/tidymodels_advanced.html",
-      "/workshops/shiny_r_adv.html",
       "/workshops/arrow.html",
       "/workshops/quarto_dashboards.html",
       "/workshops/causal.html",
@@ -21,6 +20,7 @@
       "/workshops/shiny_python_intro.html",
       "/workshops/shiny_r_intro.html",
       "/workshops/tidymodels_intro.html",
+      "/workshops/shiny_r_level_up.html",
       "/workshops/ml_python.html",
       "/workshops/tables.html",
       "/workshops/pkg_dev.html",

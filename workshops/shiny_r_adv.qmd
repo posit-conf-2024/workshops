@@ -1,5 +1,5 @@
 ---
-title: Building Brilliant Shiny Apps in R
+title: Level Up with Shiny for R
 author:
   - name: Garrick Aden-Buie
     affiliations:

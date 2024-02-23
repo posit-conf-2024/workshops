@@ -34,6 +34,6 @@ This course is probably not for you if: - You aren't really comfortable with Pyt
 
 |                               |     |                                             |
 |-------------------------------|-----|---------------------------------------------|
-| ![](images/gordon_shotwell.jpeg) |     | Instructor bio, including link to homepage. |
+| ![](images/gordon_shotwell.jpeg) |     |   Gordon is part of the developer relations team at Posit. He has ten years of experience building data science applications in various industries, and most recently was a Lead Data Scientist at Socure where he was responsible for data science tooling. |
 
 : {tbl-colwidths="\[25,5,70\]"}

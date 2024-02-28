@@ -28,7 +28,7 @@ This course is for you if you:
 
 -   are excited to author flexible single documents like technical reports and slide presentations.
 
-Seasoned users of R Markdown will get more out of the [Advanced Quarto with R and RStudio: Projects, Websites, Books, and More](/quarto-r-projects) workshop, which is focused on projects, a distinct strength of Quarto in authoring work that spans multiple documents.
+Seasoned users of R Markdown will get more out of the [Build-a-Dashboard](https://posit-conf-2024.github.io/workshops/workshops/quarto_dashboards.html) or [Quarto Websites](https://posit-conf-2024.github.io/workshops/workshops/quarto_websites.html) workshops, which are focused specific output types.
 
 # Instructor(s)
 

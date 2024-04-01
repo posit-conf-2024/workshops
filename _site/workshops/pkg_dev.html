@@ -2,16 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.5.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Instructor 1 name">
-<meta name="author" content="Instructor 2 name (remove if single instructor)">
+<meta name="author" content="Jenny Bryan">
 <meta name="dcterms.date" content="2024-08-12">
-<meta name="description" content="1-sentence summary of workshop.">
+<meta name="description" content="Learn what’s different about writing R code that lives in a package (vs.&nbsp;a script).">
 
-<title>Pkg Dev (Details TBD)</title>
+<title>Package Development: The Rest of the Owl</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -88,11 +87,11 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Workshops</span></a>
+<span class="menu-text">posit::conf(2024) workshops</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -107,39 +106,29 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Pkg Dev (Details TBD)</h1>
+<h1 class="title"><p>Package Development: The Rest of the Owl</p></h1>
   <div class="quarto-categories">
-    <div class="quarto-category">add</div>
-    <div class="quarto-category">comma</div>
-    <div class="quarto-category">separated</div>
-    <div class="quarto-category">categories</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">package development</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    <p>1-sentence summary of workshop.</p>
+    <p>Learn what’s different about writing R code that lives in a package (vs.&nbsp;a script).</p>
   </div>
 </div>
 
 <div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Instructor 1 name </p>
+    <p class="author">Jenny Bryan </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            Instructor 1 affiliation
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Instructor 2 name (remove if single instructor) </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Instructor 2 affiliation
+            Posit
           </p>
       </div>
   </div>
@@ -164,15 +153,31 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="description" class="level1">
 <h1>Description</h1>
-<p>Full workshop description goes here. Multi-paragraph ok.</p>
+<p>In R, the fundamental unit of reusable and shareable code is a package, containing helpful functions, documentation, and sometimes sample data. Putting R code in a package is the best way to share our code with others or to share code across different projects.</p>
+<p>This workshop assumes you’ve already dipped your toe in package development, i.e.&nbsp;that you’ve managed to create a basic package and pass <code>R CMD check</code>. In terms of “How to draw an owl”, you’ve definitely drawn some circles. But now it’s time to draw the rest of the owl!</p>
+<p><img src="https://datasciencebox.org/images/design-owl.jpg" class="img-fluid"></p>
+<p>You will learn workflows and skills that are (a) very important for package development and (b) very different from writing R scripts. We will lean heavily on the tools and principles used by the tidyverse team, embodied in the devtools family of packages, including usethis, testthat, and roxygen2.</p>
+<p>The exact topics won’t be finalized until closer to conf, but they are likely to be drawn from this list:</p>
+<ul>
+<li>Fundamental daily workflows: <code>devtools::load_all()</code> and <code>check()</code></li>
+<li>Documentation: function documentation, vignettes, and website</li>
+<li>Dependencies and namespaces: how to use other packages in yours and how to distinguish the parts of your package that are internal vs.&nbsp;external</li>
+<li>Testing: the testthat package and the philosophy of writing tests as you go (vs.&nbsp;“later”)</li>
+<li>Debugging: beyond print statements</li>
+<li>Data: internal data vs.&nbsp;data available to your user</li>
+</ul>
+<p>It is likely we will reserve a chunk of time late in the day for you to apply something you’ve learned to your own package(s). This is a good chance to talk things through with members of the tidyverse team.</p>
+<p>This will be an interactive 1-day workshop, and we will be using the RStudio IDE to work through the materials.</p>
 </section>
 <section id="audience" class="level1">
 <h1>Audience</h1>
 <p>This course is for you if you:</p>
 <ul>
-<li><p>list at least</p></li>
-<li><p>three attributes</p></li>
-<li><p>for your target audience</p></li>
+<li>Are very comfortable writing R scripts and functions.</li>
+<li>Have already created a basic package, e.g., you’ve successfully worked through <a href="https://r-pkgs.org/whole-game.html">The Whole Game chapter from R Packages</a> or have equivalent experience.</li>
+<li>Have concrete plans for one or more specific packages you want to create. You might have even started implementing these plans.</li>
+<li>Are interested in using devtools/RStudio for package development.</li>
+<li>Are at least curious about Git/GitHub. We won’t have time to teach this explicitly, but you will certainly see Git/GitHub through out the day.</li>
 </ul>
 </section>
 <section id="instructors" class="level1">
@@ -185,9 +190,9 @@ ul.task-list li input[type="checkbox"] {
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="images/name-lastname.jpg" class="img-fluid"></td>
+<td><img src="images/jenny-bryan.jpeg" class="img-fluid"></td>
 <td></td>
-<td>Instructor bio, including link to homepage.</td>
+<td>Jenny is a software engineer at Posit, usually working on the tidyverse packages or its supporting ecosystem, and is a member of the R Foundation. She recently co-authored the second edition of <a href="https://r-pkgs.org/">the R Packages book</a> and is the maintainer of the <a href="https://devtools.r-lib.org/">devtools</a> and <a href="https://usethis.r-lib.org/">usethis</a> packages (among others).</td>
 </tr>
 </tbody>
 </table>
@@ -231,18 +236,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -274,7 +268,47 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -309,7 +343,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

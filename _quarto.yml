@@ -3,7 +3,12 @@ project:
 
 website:
   navbar: 
+    background: "#72994E"
     left: 
       - index.qmd
 
 editor: visual
+
+format:
+  html:
+    linkcolor: "#57733D"

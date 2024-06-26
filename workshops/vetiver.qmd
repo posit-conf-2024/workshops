@@ -3,6 +3,9 @@ title: Intro to MLOps with vetiver
 author:
   - name: Isabel Zimmerman
     affiliations:
+      - name: Posit, PBC
+  - name: Julia Silge
+    affiliations:
       - name: Posit, PBC  
 description: |
   Utilize the vetiver framework in Python and R for efficient versioning, deployment, and monitoring of machine learning models in production.
@@ -32,5 +35,6 @@ This workshop is for you if you:
 |                                  |     |                                                                                                                                                                                                                                                                                                                     |
 |----------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![](images/isabel-zimmerman.jpg) |     | [Isabel Zimmerman](https://www.isabelizimm.me/)(she/her) is a software engineer at Posit, PBC. As part of her job at Posit, she builds and maintains MLOps Python packages such as vetiver and pins. She has a background as a software engineer/data scientist working with data and models in cloud environments. |
+| ![](images/julia-silge.jpg) |     | 	[Julia Silge](https://juliasilge.com/) is a data scientist and software engineer at Posit PBC where she works on open source modeling and MLOps tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning.Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences. |
 
 : {tbl-colwidths="\[25,5,70\]"}

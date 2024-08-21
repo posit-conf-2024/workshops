@@ -6,11 +6,16 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Gordon Shotwell">
+<meta name="author" content="Daniel D. Sjoberg">
+<meta name="author" content="Becca Krouse">
+<meta name="author" content="Daniel D. Sjoberg">
+<meta name="author" content="Ellis Hughes">
+<meta name="author" content="Andrew Bates">
+<meta name="author" content="Casey Aguilar-Gervase">
 <meta name="dcterms.date" content="2024-08-12">
-<meta name="description" content="Take your Shiny apps to the next level with modules">
+<meta name="description" content="High level overview of the scope and tools available within the pharmaverse for the clinical pipeline, including tools for ADaM data set curation, creating Analysis Results Data Sets, and TLGs.">
 
-<title>Advanced Shiny for Python</title>
+<title>Flavors of the pharmaverse</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -106,31 +111,70 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Advanced Shiny for Python</h1>
+<h1 class="title"><p>Flavors of the pharmaverse</p></h1>
+<p class="subtitle lead"><a href="https://posit-conf-2024.github.io/pharmaverse/">https://posit-conf-2024.github.io/pharmaverse/</a></p>
   <div class="quarto-categories">
-    <div class="quarto-category">python</div>
-    <div class="quarto-category">shiny</div>
-    <div class="quarto-category">production</div>
-    <div class="quarto-category">advanced</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">pharma</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    <p>Take your Shiny apps to the next level with modules</p>
+    <p>High level overview of the scope and tools available within the pharmaverse for the clinical pipeline, including tools for ADaM data set curation, creating Analysis Results Data Sets, and TLGs.</p>
   </div>
 </div>
 
 <div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Author</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Gordon Shotwell </p>
+    <p class="author">Daniel D. Sjoberg </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            Posit PBC
+            Genentech
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Becca Krouse </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            GSK
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Daniel D. Sjoberg </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Genentech
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Ellis Hughes </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Pharmaceutical industry
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Andrew Bates </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Atorus Research
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Casey Aguilar-Gervase </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Atorus Research
           </p>
       </div>
   </div>
@@ -155,24 +199,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="description" class="level1">
 <h1>Description</h1>
-<p>Our Intro to Shiny for Python workshop takes you through the basics of building Shiny for Python applications with Shiny Express. This course builds on the concepts from the introductory course and teaches you how to build and maintain large, mission-critical applications in Shiny. After this one-day workshop you will understand how to identify and troubleshoot problematic Shiny code, and how to build robust apps which are easy to maintain and extend.</p>
-<p>The topics we will cover are:</p>
-<ul>
-<li>What is Shiny Core and why do we use it?</li>
-<li>Basics of Shiny modules</li>
-<li>Communicating between modules</li>
-<li>Testing Shiny applications with pytest and playwright</li>
-</ul>
-</section>
-<section id="audience" class="level1">
-<h1>Audience</h1>
-<p>This course is for you if you:</p>
-<ul>
-<li>Are comfortable working with Python</li>
-<li>Have built and maintained a few Shiny applications in either R or Python</li>
-<li>Are comfortable with Shiny concepts like reactive calcuations and effect</li>
-</ul>
-<p>This course is probably not for you if: - You aren’t really comfortable with Python - You are picking up Shiny for the first time</p>
+<p>Over the past 4 years, the pharmaverse was created and has blossomed into a booming community of organizations and package developers aimed at supporting R development with focus on the clinical reporting pipeline. Even within a world as standardized as regulatory submissions, organizations still tend to have sometimes vastly different requirements within their own processes.</p>
+<p>In this workshop, we’ll give a high level overview of the scope and tools available within the pharmaverse for the clinical pipeline, including tools for ADaM data set curation, creating Analysis Results Data Sets, and TLGs. To help attendees understand how there are different paradigms and pathways through the pharmaverse, we’ll take a tour through two to three different strategies available to support table, listing, and figure creation. Attendees of this workshop will walk away with an understanding of how the pharmaverse can help their organization and where they can look to learn more about the right tools to support their needs.</p>
 </section>
 <section id="instructors" class="level1">
 <h1>Instructor(s)</h1>
@@ -184,9 +212,29 @@ ul.task-list li input[type="checkbox"] {
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="images/gordon_shotwell.jpeg" class="img-fluid"></td>
 <td></td>
-<td>Gordon is part of the developer relations team at Posit. He has ten years of experience building data science applications in various industries, and most recently was a Lead Data Scientist at Socure where he was responsible for data science tooling.</td>
+<td></td>
+<td><a href="https://www.danieldsjoberg.com/"><strong>Daniel D. Sjoberg</strong></a> (he/him) is a Senior Principal Data Scientist at Genentech. Previously, he was a Lead Data Science Manager at the Prostate Cancer Clinical Trials Consortium, and a Senior Biostatistician at Memorial Sloan Kettering Cancer Center in New York City. He enjoys R package development, creating many packages available on <a href="https://cran.r-project.org/web/packages/">CRAN</a>, <a href="https://ddsjoberg.r-universe.dev/ui#packages">R-Universe</a>, and <a href="https://github.com/ddsjoberg">GitHub</a>. He’s a co-organizer of <a href="https://rainbowr.netlify.app/">rainbowR</a> (a community that supports, promotes and connects LGBTQ+ people who code in the R language) and of the <a href="https://rconsortium.github.io/RMedicine_website/">R Medicine Conference</a>. His research interests include adaptive methods in clinical trials, precision medicine, and predictive modeling. Daniel is the winner of the 2021 American Statistical Association (ASA) Innovation in Statistical Programming and Analytics award.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><strong>Becca Krouse</strong> is a data scientist in GSK’s Statistics and Data Science Innovation Hub. A biostatistician by training, she has experience spanning 13+ years in the field of clinical research and specializes in developing R-based tools.</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><strong>Ellis Hughes</strong> is a Data Science Leader and has worked in the pharmaceutical industry for almost a decade. He focuses on how organizations can use R and take open source approaches to improve processes and solve problems. During his free time he organizes the Seattle UseR group, the Cascadia R Conference, and hosts a weekly R screencast, TidyX, to explain data science concepts.</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><strong>Andrew Bates</strong> Andrew is a Data Solutions Engineer at Atorus Research where he builds tools that enable people to solve their data problems. He specializes in R and its intersection with web technologies.</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><strong>Casey Aguilar-Gervase</strong> is a Senior Data Visualization Engineer at Atorus. Casey enjoys combining the art of design with clinical programming in R to create innovative Shiny applications. With a strong background in both disciplines, Casey is passionate about pushing the boundaries of Shiny to develop user-friendly, data-driven solutions that meet technical requirements and provide an exceptional user experience.</td>
 </tr>
 </tbody>
 </table>

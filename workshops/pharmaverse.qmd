@@ -1,7 +1,7 @@
 ---
 title: >
   Flavors of the pharmaverse
-subtitle: "[https://posit-conf-2024.github.io/pharmaverse/](https://posit-conf-2024.github.io/pharmaverse/)"
+subtitle: "[https://posit-conf-2024.github.io/pharmaverse](https://posit-conf-2024.github.io/pharmaverse/)"
 author:
   - name: Daniel D. Sjoberg
     affiliations:

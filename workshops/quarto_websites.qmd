@@ -1,6 +1,6 @@
 ---
 title: Quarto Websites
-subtitle: "[https://github.com/posit-conf-2024/quarto-websites](https://github.com/posit-conf-2024/quarto-websites)"
+subtitle: "[https://posit-conf-2024.github.io/quarto-websites](https://posit-conf-2024.github.io/quarto-websites/)"
 author:
   - name: Charlotte Wickham
     affiliations:

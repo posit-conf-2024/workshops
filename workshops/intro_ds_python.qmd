@@ -1,6 +1,6 @@
 ---
 title: Introduction to Data Science with Python
-subtitle: "NEED LINK"
+subtitle: "Virtual pre-conf workshop only"
 author:
   - name: Posit Academy Team
     affiliations:
@@ -41,7 +41,7 @@ This course is for you if you:
 # Instructors
 
 |                         |     |                                                                                                                                                                                                                                                                                                   |
-|---------|---------|------------------------------------------------------|
+|-------------|-------------|-----------------------------------------------|
 | ![](images/academy.png) |     | Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-learner collaboration. |
 
 : {tbl-colwidths="\[25,5,70\]"}

@@ -1,6 +1,6 @@
 ---
 title: Introduction to Quarto
-subtitle: "[https://github.com/posit-conf-2024/quarto-intro](https://github.com/posit-conf-2024/quarto-intro)"
+subtitle: "[https://posit-conf-2024.github.io/quarto-intro](https://posit-conf-2024.github.io/quarto-intro/)"
 author:
   - name: Andrew Bray
     affiliations:

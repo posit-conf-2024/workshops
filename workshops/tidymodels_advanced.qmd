@@ -1,5 +1,6 @@
 ---
 title: Advanced Tidymodels
+subtitle: "[https://github.com/posit-conf-2024/tidymodels-advanced](https://github.com/posit-conf-2024/tidymodels-advanced)"
 author:
   - name: Max Kuhn
     affiliations:
@@ -11,7 +12,8 @@ categories: [tidymodels, modeling, regression, classification]
 
 # Description
 
-In this workshop you will learn more about model optimization using the tune and finetune packages, including racing and iterative methods. You'll be able to do more sophisticated feature engineering with recipes.
+In this workshop you will learn more about model optimization using the tune and finetune packages, including racing and iterative methods.
+You'll be able to do more sophisticated feature engineering with recipes.
 
 Time permitting, model ensembles via stacking will be introduced.
 
@@ -29,8 +31,8 @@ Participants who are new to tidymodels will benefit from taking the [Introductio
 
 # Instructor
 
-|                    |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|--------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                           |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|--------|--------|--------------------------------------------------------|
 | ![](images/max-kuhn.jpeg) |     | **Max Kuhn** is a software engineer at Posit. He is responsible for the tidymodels ecosystem and maintains about 30 packages, including caret. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics. He, and Kjell Johnson, wrote the book *Applied Predictive Modeling*, which won the Ziegel award from the American Statistical Association. Their second book, [*Feature Engineering and Selection*](https://bookdown.org/max/FES/), was published in 2019 and the book [*Tidy Models with R*](https://www.tmwr.org) was published in 2022. He is currently working on [*Applied Machine Learning for Tabular Data*](https://aml4td.org/) |
 
 : {tbl-colwidths="\[25,5,70\]"}

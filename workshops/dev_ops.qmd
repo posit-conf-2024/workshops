@@ -1,5 +1,6 @@
 ---
 title: "DevOps for Data Scientists"
+subtitle: "[https://github.com/posit-conf-2024/dev-ops](https://github.com/posit-conf-2024/dev-ops)"
 author:
   - name: Rika Gorn
     affiliations:
@@ -10,23 +11,28 @@ categories: [data science, pro product, devops, workbench, connect, package mana
 ---
 
 # Description
-In this course we will learn the key principles of DevOps and problems which it intends to solve for data scientists. We will discuss how DevOps practices such as CI/CD enhance collaboration, automation, and reproducibility. We will learn common workflows for environment management, package management, containerization, monitoring & logging, and version control. Participants will get hands-on experience with a variety of tools including Docker, Github Actions, and APIs. Posit Pro Products will also be used by participants to quickly create and deploy R or python code using DevOps pipelines. 
 
-Please note that this course is not prescriptive around DevOps tools which are constantly growing and changing. Given that, the exact tools that will be used in this course (e.g. Jenkins, Azure Devops, etc) are subject to change. 
+In this course we will learn the key principles of DevOps and problems which it intends to solve for data scientists.
+We will discuss how DevOps practices such as CI/CD enhance collaboration, automation, and reproducibility.
+We will learn common workflows for environment management, package management, containerization, monitoring & logging, and version control.
+Participants will get hands-on experience with a variety of tools including Docker, Github Actions, and APIs.
+Posit Pro Products will also be used by participants to quickly create and deploy R or python code using DevOps pipelines.
+
+Please note that this course is not prescriptive around DevOps tools which are constantly growing and changing.
+Given that, the exact tools that will be used in this course (e.g. Jenkins, Azure Devops, etc) are subject to change.
 
 # Audience
 
 This course is for you if you:
 
--   Want to learn the main principles and tools of DevOps 
+-   Want to learn the main principles and tools of DevOps
 -   Are a data scientist who wants to put their R/Python code into production or work more closely with DevOps teams
--   Want to get hands-on experience using docker, CI/CD tools, and other DevOps workflows. 
+-   Want to get hands-on experience using docker, CI/CD tools, and other DevOps workflows.
 
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|-------------------------------------|
-| ![](images/rika-gorn.jpg) |     | [**Rika Gorn**](https://ca.linkedin.com/in/RikaGorn) is a Senior Solutions Engineer at Posit where she helps customers and organizations create infrastructure for data analytics and data science. Her background is in data science and data engineering. 
-
+|                           |     |                                                                                                                                                                                                                                                             |
+|------------------|------------------|------------------------------------|
+| ![](images/rika-gorn.jpg) |     | [**Rika Gorn**](https://ca.linkedin.com/in/RikaGorn) is a Senior Solutions Engineer at Posit where she helps customers and organizations create infrastructure for data analytics and data science. Her background is in data science and data engineering. |
 
 : {tbl-colwidths="\[25,5,70\]"}

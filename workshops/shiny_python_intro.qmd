@@ -1,5 +1,6 @@
 ---
 title: Introduction to Shiny for Python
+subtitle: "[https://posit-conf-2024.github.io/intro-to-shiny-for-python](https://posit-conf-2024.github.io/intro-to-shiny-for-python/)"
 author:
   - name: Garrett Grolemund
     affiliations:
@@ -14,7 +15,8 @@ categories: [python, shiny, shinylive]
 
 # Description
 
-Shiny for Python is a new framework for building performant, beautiful web applications in Python. In this one-day workshop, you will learn the basic building blocks of a Shiny application which will let you create both quick, simple applications and elaborate mission-critical ones.
+Shiny for Python is a new framework for building performant, beautiful web applications in Python.
+In this one-day workshop, you will learn the basic building blocks of a Shiny application which will let you create both quick, simple applications and elaborate mission-critical ones.
 
 In particular this workshop covers:
 
@@ -45,22 +47,26 @@ You should have a basic understanding of Python and be able to install packages 
 
 2.  What if I've never built a Shiny app before?
 
-This workshops doesn't require any Shiny or web application experience. We will start from scratch to build simple applications before moving on to more complex ones.
+This workshops doesn't require any Shiny or web application experience.
+We will start from scratch to build simple applications before moving on to more complex ones.
 
 3.  Why should I learn Shiny if I already know Streamlit or Dash?
 
-We believe that Shiny is the best framework for building data applications in Python. It's reactive execution model means that you can build performant applications without explicitly caching data or managing application state. See this [blog post](https://posit.co/blog/why-shiny-for-python/) for more on why we think that Shiny is worth learning.
+We believe that Shiny is the best framework for building data applications in Python.
+It's reactive execution model means that you can build performant applications without explicitly caching data or managing application state.
+See this [blog post](https://posit.co/blog/why-shiny-for-python/) for more on why we think that Shiny is worth learning.
 
 4.  I'm an expert with Shiny for R, is this workshop for me?
 
-The R and Python Shiny packages are quite similar, so some of the content in this workshop may be familiar to you. That said it's a great opportunity to fill in missing pieces and ask question about Python best practices. Check out our [quickstart guide](https://shiny.rstudio.com/py/docs/r-quickstart.html) for R users and [this tutorial](https://www.youtube.com/watch?v=pXidQWYY14w) if you want to quickly get up to speed with Shiny for Python.
+The R and Python Shiny packages are quite similar, so some of the content in this workshop may be familiar to you.
+That said it's a great opportunity to fill in missing pieces and ask question about Python best practices.
+Check out our [quickstart guide](https://shiny.rstudio.com/py/docs/r-quickstart.html) for R users and [this tutorial](https://www.youtube.com/watch?v=pXidQWYY14w) if you want to quickly get up to speed with Shiny for Python.
 
 # Instructors
 
-+------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/garrett-grolemund.jpg)  |                | Garrett is Director of Education at Posit PBC. He is a contributor to the Shiny for Python website, and the co-author of several data science books including, *R for Data Science.*                                                                                                                                                                                    |
-+------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/andrie-de-vries.jpg)    |                | Andrie is Director of Product Strategy at Posit. He started using R in 2009 for market research statistics and joined Revolution Analytics in 2013, assisting customers with their adoption of R for machine learning. After the acquisition of Revolution analytics by Microsoft in 2015, he implemented deep learning and machine learning projects in the Azure cloud. |
-+------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                   |     |                                                                                                                                                                                                                                                                                                                                                                           |
+|----------|----------|----------------------------------------------------|
+| ![](images/garrett-grolemund.jpg) |     | Garrett is Director of Education at Posit PBC. He is a contributor to the Shiny for Python website, and the co-author of several data science books including, *R for Data Science.* \|                                                                                                                                                                                   |
+| ![](images/andrie-de-vries.jpg)   |     | Andrie is Director of Product Strategy at Posit. He started using R in 2009 for market research statistics and joined Revolution Analytics in 2013, assisting customers with their adoption of R for machine learning. After the acquisition of Revolution analytics by Microsoft in 2015, he implemented deep learning and machine learning projects in the Azure cloud. |
 
 : {tbl-colwidths="\[25,5,70\]"}

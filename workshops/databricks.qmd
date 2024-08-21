@@ -1,5 +1,6 @@
 ---
 title: Using Databricks with R
+subtitle: "[https://posit-conf-2024.github.io/databricks](https://posit-conf-2024.github.io/databricks/)"
 author:
   - name: Edgar Ruiz
     affiliations:
@@ -12,7 +13,10 @@ categories: [databricks, databases, Spark, dplyr]
 
 # Description
 
-As most organization's data migrate to the cloud, the ability to analyze data in-place becomes more important. This workshop will walk you through how to think about remote data, how to access it, and how to analyze it efficiently. We will review the latest in integrations between R and Databricks. The two integrations that we will review are:
+As most organization's data migrate to the cloud, the ability to analyze data in-place becomes more important.
+This workshop will walk you through how to think about remote data, how to access it, and how to analyze it efficiently.
+We will review the latest in integrations between R and Databricks.
+The two integrations that we will review are:
 
 -   [Spark via Databricks Connect](https://spark.rstudio.com/deployment/databricks-connect.html)
 
@@ -32,10 +36,10 @@ This course is for you if you:
 
 # Instructor(s)
 
-+----------------------------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/edgar-ruiz.jpg) |        | Edgar co-authored a book called “Mastering Spark with R,” and is currently the maintainer of the `sparklyr` package. Edgar has also authored multiple articles, blog posts sharing analytics insights, and server infrastructure for data science. He has a background in deploying enterprise reporting, and business intelligence solutions. |
-|                            |        |                                                                                                                                                                                                                                                                                                                                                |
-|                            |        | <https://www.linkedin.com/in/edgararuiz/>                                                                                                                                                                                                                                                                                                      |
-+----------------------------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------------------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/edgar-ruiz.jpg) |       | Edgar co-authored a book called “Mastering Spark with R,” and is currently the maintainer of the `sparklyr` package. Edgar has also authored multiple articles, blog posts sharing analytics insights, and server infrastructure for data science. He has a background in deploying enterprise reporting, and business intelligence solutions. |
+|                            |       |                                                                                                                                                                                                                                                                                                                                                |
+|                            |       | <https://www.linkedin.com/in/edgararuiz/>                                                                                                                                                                                                                                                                                                      |
++----------------------------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {tbl-colwidths="\[25,5,70\]"}

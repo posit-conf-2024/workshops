@@ -3,7 +3,7 @@ title: "posit::conf(2024) workshops"
 listing:
   contents: workshops
   type: table
-  fields: [title, author, description]
+  fields: [title, author, description, subtitle]
   field-display-names:
     author: "Instructor(s)"
 ---

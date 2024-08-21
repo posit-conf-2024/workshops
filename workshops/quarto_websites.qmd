@@ -1,5 +1,6 @@
 ---
 title: Quarto Websites
+subtitle: "[https://github.com/posit-conf-2024/quarto-websites](https://github.com/posit-conf-2024/quarto-websites)"
 author:
   - name: Charlotte Wickham
     affiliations:
@@ -14,21 +15,26 @@ categories: [Quarto, R, Python]
 
 # Description
 
-Do you need a professional website to showcase your work? Or have you got an idea for a website at work, but it needs to reflect your organization's brand? If you've used Quarto to produce a document, you've already got the technical skills to create a Quarto website. In this workshop, you'll learn everything else you need to build a website and customize its appearance.
+Do you need a professional website to showcase your work?
+Or have you got an idea for a website at work, but it needs to reflect your organization's brand?
+If you've used Quarto to produce a document, you've already got the technical skills to create a Quarto website.
+In this workshop, you'll learn everything else you need to build a website and customize its appearance.
 
-You'll get a running start by using a template we've designed to be functional and attractive, but also act as a guide for your learning. Then you'll:
+You'll get a running start by using a template we've designed to be functional and attractive, but also act as a guide for your learning.
+Then you'll:
 
-* Add pages and navigation, and learn best practices for structuring your content.
+-   Add pages and navigation, and learn best practices for structuring your content.
 
-* Customize the visual appearance of your site by mastering the basics of SCSS and CSS and how they apply to Quarto websites.
+-   Customize the visual appearance of your site by mastering the basics of SCSS and CSS and how they apply to Quarto websites.
 
-* Use listings, a special kind of page, to showcase related content like blog posts, projects, or talks.
+-   Use listings, a special kind of page, to showcase related content like blog posts, projects, or talks.
 
 By the end of the workshop you'll have built and published (if you want) a personal website, but the same tools and techniques will apply to any kind of website you might like to build.
 
-We'll assume you've used Quarto to produce documents, but we won't assume you have any HTML, CSS/SCSS or Git/GitHub experience, nor will we assume any particular programming language (R, Python etc.) or level of programming experience. 
+We'll assume you've used Quarto to produce documents, but we won't assume you have any HTML, CSS/SCSS or Git/GitHub experience, nor will we assume any particular programming language (R, Python etc.) or level of programming experience.
 
 # Audience
+
 This course is for you if you:
 
 -   Have used Quarto to generate documents (e.g. HTML, PDF, MS Word etc.)
@@ -37,12 +43,11 @@ This course is for you if you:
 
 -   Want to walk away with your own personal website
 
-
 # Instructor(s)
 
-|                               |     |                                             |
-|------------------|------------------|-------------------------------------|
+|                                   |     |                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------|------------------|------------------------------------|
 | ![](images/charlotte-wickham.jpg) |     | [**Dr. Charlotte Wickham**](http://cwick.co.nz) (she/her) is a Developer Educator on the Quarto team at Posit. As part of her job at Posit, Charlotte helps to keep [quarto.org](https://quarto.org)---a website about, and also built with, Quarto---up to date. Prior to Posit, she taught Statistics and Data Science at Oregon State University where she received awards for her in-person and online teaching. |
-| ![](images/emil-hvitfeldt.png) |     | [**Emil Hvitfeldt**](https://emilhvitfeldt.com/) (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb. |
+| ![](images/emil-hvitfeldt.png)    |     | [**Emil Hvitfeldt**](https://emilhvitfeldt.com/) (he/him) is a Software Engineer on the tidymodels team at Posit. Emil works on making modeling easy and intuitive with tidy tools. Outside of modeling, he is also trying to make slidecrafting a well respecting verb.                                                                                                                                             |
 
 : {tbl-colwidths="\[25,5,70\]"}

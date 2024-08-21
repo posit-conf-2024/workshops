@@ -1,5 +1,6 @@
 ---
 title: Databases with R
+subtitle: "[https://github.com/posit-conf-2024/databases](https://github.com/posit-conf-2024/databases)"
 author:
   - name: Kirill Müller
     affiliations:
@@ -38,7 +39,7 @@ This course is for you if you:
 # Instructor(s)
 
 |                               |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|-------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------|---------|-------------------------------------------------------|
 | ![](images/kirill-muller.jpg) |     | [Kirill Müller](https://www.cynkra.com/about/) has been working on the boundary between data and computer science for more than 25 years. He has been awarded five R consortium projects to improve database connectivity and performance in R. Kirill is a core contributor to several tidyverse packages, including dplyr and tibble, and is currently working on duckplyr, the next iteration of dplyr that uses DuckDB as a backend. He holds a Ph.D. in Civil Engineering from ETH Zurich and is a founder and partner at cynkra. |
 
 : {tbl-colwidths="\[25,5,70\]"}

@@ -1,5 +1,6 @@
 ---
 title: Effective data visualization with ggplot2
+subtitle: "[https://github.com/posit-conf-2024/dataviz-r](https://github.com/posit-conf-2024/dataviz-r)"
 author:
   - name: Claus O. Wilke
     affiliations:
@@ -11,9 +12,17 @@ categories: data visualization, ggplot2, color, accessibility, communication
 
 # Description
 
-The R programming language provides powerful primitives for data visualization. In particular, for many data scientists the package ggplot2 is the go-to toolkit for making visualizations. Through its modular and extensible design, ggplot2 has mushroomed into a formidable ecosystem, and with the aid of third-party extension packages there is little in terms of data visualization that cannot be done with ggplot2 these days. However, harnessing this flexibility and power can present a steep learning curve. While most users can quickly throw together a scatter plot or histogram, turning the initial figure draft into a carefully designed, publication-ready visualization requires a much deeper understanding of how ggplot2 functions.
+The R programming language provides powerful primitives for data visualization.
+In particular, for many data scientists the package ggplot2 is the go-to toolkit for making visualizations.
+Through its modular and extensible design, ggplot2 has mushroomed into a formidable ecosystem, and with the aid of third-party extension packages there is little in terms of data visualization that cannot be done with ggplot2 these days.
+However, harnessing this flexibility and power can present a steep learning curve.
+While most users can quickly throw together a scatter plot or histogram, turning the initial figure draft into a carefully designed, publication-ready visualization requires a much deeper understanding of how ggplot2 functions.
 
-This workshop has two complementary goals. First, you will learn useful tips and tricks for ggplot2 that will help you make plots that look stylish, unique, and exactly the way you want them to. This will include strategies for layering geoms, customizing coordinate systems and scales, tweaking the plot theme and other aspects of the plot appearance, and creating annotations. Second, you will learn some fundamental principles of figure design. These will include principles for choosing color palettes and for designing for color-vision deficiency, as well as some general principles of communication and design for accessibility.
+This workshop has two complementary goals.
+First, you will learn useful tips and tricks for ggplot2 that will help you make plots that look stylish, unique, and exactly the way you want them to.
+This will include strategies for layering geoms, customizing coordinate systems and scales, tweaking the plot theme and other aspects of the plot appearance, and creating annotations.
+Second, you will learn some fundamental principles of figure design.
+These will include principles for choosing color palettes and for designing for color-vision deficiency, as well as some general principles of communication and design for accessibility.
 
 # Audience
 
@@ -27,8 +36,8 @@ This course is for you if you:
 
 # Instructor(s)
 
-|                             |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-------------------|-------------------|------------------------------------|
+|                             |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------|-------------------|----------------------------------|
 | ![](images/claus-wilke.png) |     | [Claus Wilke](https://clauswilke.com) is the Jane and Roland Blumberg Centennial Professor in Molecular Evolution at The University of Texas at Austin. Claus is a computational biologist and data scientist who performs research in the areas of protein and peptide biochemistry, microbiology, and generative AI. In addition, Claus teaches courses on data visualization at The University of Texas. He has published the book Fundamentals of Data Visualization, a book on how to effectively communicate with data. While the book itself is not about R programming, all visualizations in the book were made with R and ggplot2. Claus also has authored several popular R packages for data visualization, such as cowplot, ggridges, ggtext, and has made significant contributions to ggplot2 itself. |
 
 : {tbl-colwidths="\[25,5,70\]"}

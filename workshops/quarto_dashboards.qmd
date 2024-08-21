@@ -1,6 +1,7 @@
 ---
 title: |
   Build-a-Dashboard Workshop (with Quarto, R and/or Python)
+subtitle: "[https://github.com/posit-conf-2024/quarto-dashboards](https://github.com/posit-conf-2024/quarto-dashboards)"
 author:
   - name: Mine Çetinkaya-Rundel
     affiliations:
@@ -13,7 +14,13 @@ categories: [Quarto, R, Python]
 
 # Description
 
-You already analyze and summarize your data in computational notebooks with R and/or Python. What's next? You can share your insights or allow others to make their own conclusions in eye-catching dasboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including static graphics (ggplot2, Matplotlib, Seaborn, etc.), interactive widgets (Plotly, Leaflet, Jupyter Widgets, htmlwidgets, etc.), tabular data, value boxes, text annotations, and more. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes. And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.) or any notebook editor (JupyterLab, etc.). This workshop will walk you through building an increasingly complex dashboard using various layout options and and deploy them as static web pages (with no special server required) as well as with a Shiny Server on the backend for enhanced interactivity.
+You already analyze and summarize your data in computational notebooks with R and/or Python.
+What's next?
+You can share your insights or allow others to make their own conclusions in eye-catching dasboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc.
+With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including static graphics (ggplot2, Matplotlib, Seaborn, etc.), interactive widgets (Plotly, Leaflet, Jupyter Widgets, htmlwidgets, etc.), tabular data, value boxes, text annotations, and more.
+Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes.
+And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.) or any notebook editor (JupyterLab, etc.).
+This workshop will walk you through building an increasingly complex dashboard using various layout options and and deploy them as static web pages (with no special server required) as well as with a Shiny Server on the backend for enhanced interactivity.
 
 # Audience
 
@@ -28,7 +35,7 @@ This course is for you if you:
 # Instructor(s)
 
 |                                       |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|------------------|------------------|-------------------------------------|
+|------------------|------------------|------------------------------------|
 | ![](images/mine-cetinkaya-rundel.jpg) |     | [**Dr. Mine Çetinkaya-Rundel**](http://mine-cr.com/) (she/her) is Professor of the Practice at Duke University and Developer Educator at Posit. Mine's work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. Mine works on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. Mine works on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project she co-authored four open-source introductory statistics textbooks. She is also the creator and maintainer of datasciencebox.org and she teaches the popular Statistics with R MOOC on Coursera. Mine is a Fellow of the ASA and Elected Member of the ISI as well as the winner of the 2021 Robert V. Hogg Award for Excellence in Teaching Introductory Statistics. |
 
 : {tbl-colwidths="\[25,5,70\]"}

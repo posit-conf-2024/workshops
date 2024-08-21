@@ -1,5 +1,6 @@
 ---
 title: R in Production
+subtitle: "[https://github.com/posit-conf-2024/r-in-production](https://github.com/posit-conf-2024/r-in-production)"
 author:
   - name: Hadley Wickham
     affiliations:
@@ -33,7 +34,7 @@ This course is for you if you:
 # Instructor(s)
 
 |                                 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-------------------|-------------------|------------------------------------|
+|-------------------|-------------------|----------------------------------|
 | ![](images/hadley-wickham.jpeg) |     | Hadley is Chief Scientist at Posit PBC, winner of the 2019 COPSS award, and a member of the R Foundation. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (like the tidyverse, which includes ggplot2, dplyr, and tidyr)and principled software development (e.g. roxygen2, testthat, and pkgdown). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, <http://hadley.nz>. |
 
 : {tbl-colwidths="\[25,5,70\]"}

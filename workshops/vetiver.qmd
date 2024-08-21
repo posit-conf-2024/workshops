@@ -1,5 +1,6 @@
 ---
 title: Intro to MLOps with vetiver
+subtitle: "[https://posit-conf-2024.github.io/vetiver](https://posit-conf-2024.github.io/vetiver/)"
 author:
   - name: Isabel Zimmerman
     affiliations:
@@ -16,7 +17,8 @@ categories: [mlops, python, r]
 
 Data scientists understand what goes into training a machine learning or statistical model, but bringing that model into a production environment can be daunting.
 
-This workshop will cover the fundamentals of MLOps (machine learning operations), the practices used to create a MLOps strategy, and what kinds of tasks and components are involved. We’ll use vetiver, a framework for MLOps tasks in Python and R, to version, deploy, and monitor the models you have trained and want to deploy and maintain in production reliably and efficiently.
+This workshop will cover the fundamentals of MLOps (machine learning operations), the practices used to create a MLOps strategy, and what kinds of tasks and components are involved.
+We’ll use vetiver, a framework for MLOps tasks in Python and R, to version, deploy, and monitor the models you have trained and want to deploy and maintain in production reliably and efficiently.
 
 # Audience
 
@@ -32,9 +34,9 @@ This workshop is for you if you:
 
 # Instructor(s)
 
-|                                  |     |                                                                                                                                                                                                                                                                                                                     |
-|----------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](images/isabel-zimmerman.jpg) |     | [Isabel Zimmerman](https://www.isabelizimm.me/)(she/her) is a software engineer at Posit, PBC. As part of her job at Posit, she builds and maintains MLOps Python packages such as vetiver and pins. She has a background as a software engineer/data scientist working with data and models in cloud environments. |
-| ![](images/julia-silge.jpg) |     | 	[Julia Silge](https://juliasilge.com/) is a data scientist and software engineer at Posit PBC where she works on open source modeling and MLOps tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning.Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences. |
+|                                  |     |                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------|----------|-----------------------------------------------------|
+| ![](images/isabel-zimmerman.jpg) |     | [Isabel Zimmerman](https://www.isabelizimm.me/)(she/her) is a software engineer at Posit, PBC. As part of her job at Posit, she builds and maintains MLOps Python packages such as vetiver and pins. She has a background as a software engineer/data scientist working with data and models in cloud environments.                                                                                          |
+| ![](images/julia-silge.jpg)      |     | [Julia Silge](https://juliasilge.com/) is a data scientist and software engineer at Posit PBC where she works on open source modeling and MLOps tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on data analysis and machine learning.Julia loves text analysis, making beautiful charts, and communicating about technical topics with diverse audiences. |
 
 : {tbl-colwidths="\[25,5,70\]"}

@@ -1,5 +1,6 @@
 ---
 title: Introduction to machine learning in Python with Scikit-learn
+subtitle: "[https://posit-conf-2024.github.io/ml-python](https://posit-conf-2024.github.io/ml-python/)"
 author:
   - name: Tiffany Timbers
     affiliations:
@@ -14,18 +15,10 @@ categories: [Python, Scikit-learn, machine learning, modeling]
 
 # Description
 
-This workshop will teach you how to perform machine learning for prediction 
-in Python using the widely-used Scikit-learn learn package.
-You will be introduced to best practices for machine learning model creation 
-and selection, including data splitting, pre-processing, 
-parameter and model optimization,
-as well as results visualization and communication.
-Workshop examples will begin with simple, intuitive models 
-(e.g., K-nearest neighbors, linear regression)
-but also demonstrate the use of more commonly used and industry standard models 
-(e.g., L1 Regularized regression and Light Gradient Boosting Machines).
-The workshop will focus on demonstrating how to do this 
-using the modern Scikit-learn pipeline syntax.
+This workshop will teach you how to perform machine learning for prediction in Python using the widely-used Scikit-learn learn package.
+You will be introduced to best practices for machine learning model creation and selection, including data splitting, pre-processing, parameter and model optimization, as well as results visualization and communication.
+Workshop examples will begin with simple, intuitive models (e.g., K-nearest neighbors, linear regression) but also demonstrate the use of more commonly used and industry standard models (e.g., L1 Regularized regression and Light Gradient Boosting Machines).
+The workshop will focus on demonstrating how to do this using the modern Scikit-learn pipeline syntax.
 
 # Audience
 
@@ -39,9 +32,9 @@ Intermediate or expert familiarity with modeling or machine learning is not requ
 
 # Instructor(s)
 
-|                               |     |                                             |
-|-------------------|-------------------|------------------------------------|
-| ![](images/tiffany-timbers.jpg) |     | [Tiffany Timbers](https://www.tiffanytimbers.com/) is an Associate Professor of Teaching in the Department of Statistics and Co-Director for the Master of Data Science program (Vancouver Option) at the University of British Columbia. In these roles she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems. One of her favorite courses she teaches is a graduate course on collaborative software development, which focuses on teaching how to create R and Python packages using modern tools and workflows. She is an author of [Data Science: A First Introduction](https://python.datasciencebook.ca/) - a textbook that serves as an approachable introduction to the world of data science, written now in both [R](https://python.datasciencebook.ca/) and [Python](https://datasciencebook.ca/).  |
-| ![](images/trevor-campbell.jpeg) |     | [Trevor Campbell](https://trevorcampbell.me/) is an Associate Professor in the Department of Statistics at the University of British Columbia. His research focuses on automated, scalable Bayesian inference algorithms, Bayesian nonparametrics, streaming data, and Bayesian theory. He was previously a postdoctoral associate advised by Tamara Broderick in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and Institute for Data, Systems, and Society (IDSS) at MIT, a Ph.D. candidate under Jonathan How in the Laboratory for Information and Decision Systems (LIDS) at MIT, and before that he was in the Engineering Science program at the University of Toronto. He is an author of [Data Science: A First Introduction](https://python.datasciencebook.ca/) - a textbook that serves as an approachable introduction to the world of data science, written now in both [R](https://python.datasciencebook.ca/) and [Python](https://datasciencebook.ca/).  |
+|                                  |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|-------------------|-------------------|----------------------------------|
+| ![](images/tiffany-timbers.jpg)  |     | [Tiffany Timbers](https://www.tiffanytimbers.com/) is an Associate Professor of Teaching in the Department of Statistics and Co-Director for the Master of Data Science program (Vancouver Option) at the University of British Columbia. In these roles she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems. One of her favorite courses she teaches is a graduate course on collaborative software development, which focuses on teaching how to create R and Python packages using modern tools and workflows. She is an author of [Data Science: A First Introduction](https://python.datasciencebook.ca/) - a textbook that serves as an approachable introduction to the world of data science, written now in both [R](https://python.datasciencebook.ca/) and [Python](https://datasciencebook.ca/).                                                                                                                   |
+| ![](images/trevor-campbell.jpeg) |     | [Trevor Campbell](https://trevorcampbell.me/) is an Associate Professor in the Department of Statistics at the University of British Columbia. His research focuses on automated, scalable Bayesian inference algorithms, Bayesian nonparametrics, streaming data, and Bayesian theory. He was previously a postdoctoral associate advised by Tamara Broderick in the Computer Science and Artificial Intelligence Laboratory (CSAIL) and Institute for Data, Systems, and Society (IDSS) at MIT, a Ph.D. candidate under Jonathan How in the Laboratory for Information and Decision Systems (LIDS) at MIT, and before that he was in the Engineering Science program at the University of Toronto. He is an author of [Data Science: A First Introduction](https://python.datasciencebook.ca/) - a textbook that serves as an approachable introduction to the world of data science, written now in both [R](https://python.datasciencebook.ca/) and [Python](https://datasciencebook.ca/). |
 
 : {tbl-colwidths="\[25,5,70\]"}

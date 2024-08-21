@@ -1,5 +1,6 @@
 ---
 title: Big Data in R with Arrow
+subtitle: "[https://posit-conf-2024.github.io/arrow](https://posit-conf-2024.github.io/arrow/)"
 author:
   - name: Nic Crane
     # affiliations:
@@ -14,9 +15,12 @@ categories: [R, Arrow, Data Engineering]
 
 # Description
 
-Data analysis pipelines with larger-than-memory data are becoming more and more commonplace. In this workshop you will be introduced to Apache Arrow, a multi-language toolbox for working with larger-than-memory tabular data, to create seamless "big" data analysis pipelines with R.
+Data analysis pipelines with larger-than-memory data are becoming more and more commonplace.
+In this workshop you will be introduced to Apache Arrow, a multi-language toolbox for working with larger-than-memory tabular data, to create seamless "big" data analysis pipelines with R.
 
-This workshop will focus on using the the arrow R package---a mature R interface to Apache Arrow---to process larger-than-memory files and multi-file data sets with arrow using familiar dplyr syntax. You'll learn to create and use the interoperable data file format Parquet for efficient data storage and access, with data stored both on disk and in the cloud, and also how to exercise fine control over data types to avoid common large data pipeline problems. Designed for new-to-arrow R users, this workshop will provide a foundation for using Arrow, giving you access to a powerful suite of tools for performant analysis of larger-than-memory tabular data in R.
+This workshop will focus on using the the arrow R package---a mature R interface to Apache Arrow---to process larger-than-memory files and multi-file data sets with arrow using familiar dplyr syntax.
+You'll learn to create and use the interoperable data file format Parquet for efficient data storage and access, with data stored both on disk and in the cloud, and also how to exercise fine control over data types to avoid common large data pipeline problems.
+Designed for new-to-arrow R users, this workshop will provide a foundation for using Arrow, giving you access to a powerful suite of tools for performant analysis of larger-than-memory tabular data in R.
 
 # Audience
 
@@ -28,11 +32,10 @@ This course is for you if you:
 
 -   want to learn how to engineer your tabular data storage for more performant access and analysis with Apache Arrow
 
-
 # Instructor(s)
 
 |                               |     |                                                                                                                                                                                                                                                                                                                                                                     |
-|---------|---------|-----------------------------------------------------|
+|-------------|-------------|-----------------------------------------------|
 | ![](images/nic_crane.png)     |     | [Nic Crane](https://niccrane.com) is an R consultant with a background in data science and software engineering. They are passionate about open source, and learning and teaching all things R. Nic is part of the core team that maintain the Arrow R package, and a co-author of "Scaling up with R and Arrow", due to be published by CRC Press later this year. |
 | ![](images/steph-hazlitt.jpg) |     | Steph Hazlitt is a data scientist, researcher and R enthusiast. She has spent the better part of her career wrangling data with R and supporting people and teams in creating and sharing data science-related products and open source software. Steph is the Director of Data Science Partnerships with BC Stats.                                                 |
 

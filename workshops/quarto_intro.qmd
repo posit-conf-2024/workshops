@@ -1,5 +1,6 @@
 ---
 title: Introduction to Quarto
+subtitle: "[https://github.com/posit-conf-2024/quarto-intro](https://github.com/posit-conf-2024/quarto-intro)"
 author:
   - name: Andrew Bray
     affiliations:
@@ -32,8 +33,8 @@ Seasoned users of R Markdown will get more out of the [Build-a-Dashboard](https:
 
 # Instructor(s)
 
-|                               |     |                                             |
+|                            |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |------------------|------------------|------------------------------------|
-| ![](imagesandrew-bray.jpg)    |     | Andrew Bray is an Associate Teaching Professor in the Department of Statistics at UC Berkeley where he develops and teaches courses in statistics and data science. His research interests include statistical computing, data privacy, and applications of statistical models to solve real world problems. He was previously an Associate Professor of Statistics in the Department of Mathematics at Reed College and an NSF Five Colleges postdoctoral fellow in western Massachusetts. |
+| ![](imagesandrew-bray.jpg) |     | Andrew Bray is an Associate Teaching Professor in the Department of Statistics at UC Berkeley where he develops and teaches courses in statistics and data science. His research interests include statistical computing, data privacy, and applications of statistical models to solve real world problems. He was previously an Associate Professor of Statistics in the Department of Mathematics at Reed College and an NSF Five Colleges postdoctoral fellow in western Massachusetts. |
 
 : {tbl-colwidths="\[25,5,70\]"}

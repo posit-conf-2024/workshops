@@ -6,4 +6,5 @@ listing:
   fields: [title, author, description, subtitle]
   field-display-names:
     author: "Instructor(s)"
+    subtitle: "Link to materials"
 ---
